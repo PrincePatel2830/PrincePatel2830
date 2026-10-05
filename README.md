@@ -1,80 +1,109 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=220&section=header&text=Prince%20Patel&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI&descAlignY=62&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,35:111827,65:312E81,100:7C3AED&text=PRINCE%20PATEL&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=DATA%20SCIENCE%20%7C%20MACHINE%20LEARNING%20%7C%20AI&descSize=19&descAlignY=58&animation=fadeIn&stroke=4B5563&strokeWidth=1" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=750&lines=Data+Science+Student+%40+IIT+Madras;Machine+Learning+%7C+Artificial+Intelligence;Full-Stack+Developer;Building+AI-Powered+Applications;Learning+Deep+Learning+%26+GenAI" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=800&height=60&lines=🎓+BS+Data+Science+%40+IIT+Madras;🤖+Machine+Learning+%7C+Artificial+Intelligence;💻+Full-Stack+Developer;🧠+Deep+Learning+%7C+Generative+AI;🚀+Building+Intelligent+Software" />
 
 <br><br>
 
 <a href="https://github.com/PrincePatel2830">
-<img src="https://img.shields.io/badge/GitHub-PrincePatel2830-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/princepatel7">
-<img src="https://img.shields.io/badge/LinkedIn-Prince%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:patelp8349@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=PrincePatel2830&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=PrincePatel2830&label=PROFILE%20VISITORS&color=7C3AED&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
+
+## 👋 Hey, I'm Prince
+
+### 🎓 Data Science Student @ IIT Madras
+
+**Building intelligent systems with Data Science, Machine Learning & AI.**
+
+</div>
+
+<br>
 
 <table>
 <tr>
-<td width="60%">
+<td width="60%" valign="top">
 
-### Hey! I'm Prince 👋
+## 🧑‍💻 About Me
 
-I'm a **Data Science student at IIT Madras** passionate about turning data into intelligent systems.
+I'm a **Data Science student at IIT Madras** passionate about building intelligent, data-driven software.
 
-I enjoy working across the complete development pipeline — from **data analysis and machine learning** to **backend development and deployment**.
+I enjoy working across the entire development pipeline — from **data analysis and machine learning** to **backend development, AI applications, and deployment**.
 
-```text
-🎓 IIT Madras
-   └── BS in Data Science
+### 🎯 Currently Focused On
 
-🧠 Interests
-   ├── Machine Learning
-   ├── Artificial Intelligence
-   ├── Data Science
-   ├── Deep Learning
-   └── Generative AI
+- 🤖 Machine Learning & Artificial Intelligence
+- 🧠 Deep Learning
+- ✨ Generative AI & LLM Applications
+- 📊 Data Analysis & Visualization
+- 🌐 Full-Stack Development
+- ⚙️ MLOps & Model Deployment
 
-💻 Building
-   ├── ML Models
-   ├── AI Applications
-   ├── Full-Stack Systems
-   └── Data-Driven Products
+### 🚀 My Goal
 
-🚀 Goal
-   └── Build useful intelligent software
-```
+> Build useful, intelligent software that solves real-world problems.
 
 </td>
 
-<td width="40%" align="center">
+<td width="40%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,flask,vue,postgres,git,github&perline=4" />
+## ⚡ Quick Facts
 
-<br><br>
+🎓 **Education**
 
-### Currently Learning
+BS in Data Science  
+IIT Madras
 
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLMs-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/MLOps-059669?style=flat-square"/>
+<br>
+
+💻 **Development**
+
+Python • JavaScript • SQL
+
+<br>
+
+🤖 **AI / ML**
+
+Scikit-Learn • PyTorch  
+LightGBM • XGBoost • CatBoost
+
+<br>
+
+🌐 **Web**
+
+Flask • Vue.js • Vite
+
+<br>
+
+🗄️ **Databases**
+
+PostgreSQL • SQLite • Redis
+
+<br>
+
+☁️ **Deployment**
+
+Vercel • Render • Cloudflare
 
 </td>
 </tr>
@@ -82,28 +111,33 @@ I enjoy working across the complete development pipeline — from **data analysi
 
 ---
 
-# ⚡ What I Work With
+# ⚡ Tech Stack
 
 <div align="center">
 
-### 🐍 Programming
+### 💻 Programming
 
 <img src="https://skillicons.dev/icons?i=python,javascript,java&theme=dark" />
 
 <br><br>
 
-### 🤖 Machine Learning & Data Science
-
-<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
-
-<br>
+### 📊 Data Science
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+<br><br>
+
+### 🤖 Machine Learning & AI
+
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CatBoost-F7A800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 
 <br><br>
 
@@ -132,71 +166,47 @@ I enjoy working across the complete development pipeline — from **data analysi
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>🚜 Heavy Equipment Price Prediction</h3>
+## 🚜 Heavy Equipment Price Prediction
 
-<b>Machine Learning Regression</b>
+### Machine Learning Regression
 
-<br><br>
+A machine learning project focused on predicting the selling price of heavy equipment using advanced ensemble models.
 
-Predicting heavy equipment selling prices using advanced ensemble learning techniques.
+**🔬 Techniques**
 
-<br><br>
+- 📊 Exploratory Data Analysis
+- 🔧 Feature Engineering
+- 🤖 Ensemble Learning
+- ⚙️ Hyperparameter Tuning
+- 📈 Model Evaluation
 
-<b>Tech:</b>
+**🧰 Technologies**
 
-<br>
-
-<img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square"/>
-<img src="https://img.shields.io/badge/XGBoost-189AB4?style=flat-square"/>
-<img src="https://img.shields.io/badge/CatBoost-F7A800?style=flat-square"/>
-<img src="https://img.shields.io/badge/Feature%20Engineering-6366F1?style=flat-square"/>
-
-<br><br>
-
-<b>Focus</b>
-
-<br>
-
-📊 EDA  
-🔧 Feature Engineering  
-⚙️ Hyperparameter Tuning  
-📈 Model Evaluation
+`LightGBM` `XGBoost` `CatBoost` `Python`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>🏥 Hospital Management System</h3>
+## 🏥 Hospital Management System
 
-<b>Full-Stack Flask Application</b>
+### Full-Stack Web Application
 
-<br><br>
+A Flask-based application designed to manage hospital operations and healthcare workflows.
 
-A web application for managing hospital operations and healthcare workflows.
+**✨ Features**
 
-<br><br>
+- 👨‍⚕️ Doctor Management
+- 🧑‍🤝‍🧑 Patient Management
+- 📅 Appointment Scheduling
+- 🔐 Authentication
+- 🗄️ Database Management
 
-<b>Tech:</b>
+**🧰 Technologies**
 
-<br>
-
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask"/>
-<img src="https://img.shields.io/badge/Jinja-FFFFFF?style=flat-square&logo=jinja&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square"/>
-
-<br><br>
-
-<b>Features</b>
-
-<br>
-
-👨‍⚕️ Doctor Management  
-🧑‍🤝‍🧑 Patient Management  
-📅 Appointment Scheduling  
-🔐 Authentication
+`Flask` `Jinja` `SQLite` `SQLAlchemy`
 
 </td>
 
@@ -204,50 +214,43 @@ A web application for managing hospital operations and healthcare workflows.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>🎯 Smart MCQ Solver</h3>
+## 🎯 Smart MCQ Solver
 
-<b>AI / Machine Learning</b>
-
-<br><br>
+### AI / Machine Learning
 
 An intelligent system for predicting and ranking possible answers to multiple-choice questions.
 
-<br><br>
+**🧠 Focus Areas**
 
-<b>Focus</b>
+- Machine Learning
+- Data Processing
+- Answer Prediction
+- Ranking
+- Model Evaluation
 
-<br>
+**🧰 Technologies**
 
-🧠 ML Prediction  
-📊 Data Processing  
-🎯 Answer Ranking  
-📈 Model Evaluation
+`Python` `Machine Learning` `Data Science`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>🧪 More Projects Coming</h3>
+## 🧪 More Projects Coming
 
-<b>Always Building 🚀</b>
-
-<br><br>
+### Always Building 🚀
 
 Currently exploring:
 
-<br><br>
+- 🤖 Generative AI
+- 🧠 Deep Learning
+- 🔗 LLM Applications
+- ⚙️ MLOps
+- 🌐 AI-Powered Web Applications
 
-🤖 Generative AI  
-🧠 Deep Learning  
-🔗 LLM Applications  
-⚙️ MLOps  
-🌐 AI-Powered Web Apps
-
-<br><br>
-
-<i>More experiments and projects are on the way.</i>
+> More experiments and projects are on the way.
 
 </td>
 
@@ -261,39 +264,45 @@ Currently exploring:
 <div align="center">
 
 ```text
-Data
-  │
-  ▼
-┌───────────────────┐
-│ Data Cleaning     │
-│ Feature Engineering│
-│ EDA               │
-└─────────┬─────────┘
-          │
-          ▼
-┌───────────────────┐
-│ Machine Learning  │
-│ Classification    │
-│ Regression        │
-│ Ensemble Models   │
-└─────────┬─────────┘
-          │
-          ▼
-┌───────────────────┐
-│ Deep Learning     │
-│ Neural Networks   │
-│ PyTorch           │
-└─────────┬─────────┘
-          │
-          ▼
-┌───────────────────┐
-│ Generative AI     │
-│ LLMs              │
-│ AI Applications   │
-└─────────┬─────────┘
-          │
-          ▼
-        🚀
+                         ┌──────────────┐
+                         │     DATA     │
+                         └──────┬───────┘
+                                │
+                                ▼
+                    ┌─────────────────────┐
+                    │   DATA SCIENCE      │
+                    │                     │
+                    │  EDA • Cleaning     │
+                    │  Features • Stats   │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │  MACHINE LEARNING   │
+                    │                     │
+                    │ Classification      │
+                    │ Regression          │
+                    │ Ensemble Models     │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │   DEEP LEARNING     │
+                    │                     │
+                    │ Neural Networks     │
+                    │ PyTorch             │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │   GENERATIVE AI     │
+                    │                     │
+                    │ LLMs • RAG          │
+                    │ AI Applications     │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                          🚀 BUILD
 ```
 
 </div>
@@ -314,7 +323,7 @@ Data
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=PrincePatel2830&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=PrincePatel2830&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -324,7 +333,7 @@ Data
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PrincePatel2830&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=PrincePatel2830&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"/>
 
 </div>
 
@@ -340,15 +349,16 @@ Data
 
 ---
 
-# 🛠️ My Development Philosophy
+# 🛠️ How I Like to Work
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
 ### 🧠 Learn
 
-Understand the fundamentals before using the tools.
+Understand the fundamentals.
 
 </td>
 
@@ -356,7 +366,7 @@ Understand the fundamentals before using the tools.
 
 ### 🔨 Build
 
-Turn concepts into real-world projects.
+Turn ideas into projects.
 
 </td>
 
@@ -364,7 +374,7 @@ Turn concepts into real-world projects.
 
 ### 📊 Analyze
 
-Use data to understand and improve systems.
+Use data to make decisions.
 
 </td>
 
@@ -372,29 +382,67 @@ Use data to understand and improve systems.
 
 ### 🚀 Ship
 
-Deploy ideas and make them useful.
+Deploy and improve.
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 🌐 Let's Connect
+# 🌱 Currently Learning
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MLOps-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-0891B2?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/PrincePatel2830">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://linkedin.com/in/princepatel7">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:patelp8349@gmail.com">
-<img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/PrincePatel2830">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</div>
+
+---
+
+<div align="center">
+
+### 💬 My Philosophy
+
+# **Build • Learn • Experiment • Deploy**
+
+<br>
+
+> *Turning ideas into intelligent software, one project at a time.*
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=PrincePatel2830&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
+
+<br><br>
+
+⭐ **If you find my work interesting, consider starring a repository!**
 
 </div>
 
@@ -402,16 +450,6 @@ Deploy ideas and make them useful.
 
 <div align="center">
 
-### 💬 "Build. Learn. Improve. Repeat."
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=PrincePatel2830&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge"/>
-
-<br><br>
-
-⭐ **If you find my projects interesting, consider starring a repository!**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7C3AED,35:4F46E5,65:1E3A8A,100:020617&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=120&section=footer" width="100%"/>
