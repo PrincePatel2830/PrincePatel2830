@@ -504,12 +504,23 @@ Real Usage
 </div>
 
 ---
+---
 
 <div align="center">
 
-### `08 / CONTRIBUTIONS`
+### `08 / GITHUB ACTIVITY`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrincePatel2830&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="94%"/>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=PrincePatel2830&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrincePatel2830&theme=github-dark-blue&hide_border=true" height="170"/>
+
+<br><br>
+
+<a href="https://github.com/PrincePatel2830">
+<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -517,13 +528,30 @@ Real Usage
 
 <div align="center">
 
-### `09 / ACHIEVEMENTS`
+### `09 / CONTRIBUTION HISTORY`
 
-<img src="https://github-profile-trophy.vercel.app/?username=PrincePatel2830&theme=onedark&no-frame=true&no-bg=true&margin-w=7&column=4"/>
+<br>
 
-</div>
+<a href="https://github.com/PrincePatel2830">
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrincePatel2830&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+
+</a>
+
+<br><br>
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   CODE        BUILD        LEARN        REPEAT           │
+│                                                         │
+│   Python      AI/ML        Deep Learning                 │
+│   Flask       Data         GenAI                         │
+│   Vue         Software     MLOps                         │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+
+
 
 <div align="center">
 
