@@ -1,426 +1,393 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,35:111827,65:312E81,100:7C3AED&text=PRINCE%20PATEL&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=DATA%20SCIENCE%20%7C%20MACHINE%20LEARNING%20%7C%20AI&descSize=19&descAlignY=58&animation=fadeIn&stroke=4B5563&strokeWidth=1" width="100%"/>
+```text
+██████╗ ██████╗ ██╗███╗   ██╗ ██████╗███████╗
+██╔══██╗██╔══██╗██║████╗  ██║██╔════╝██╔════╝
+██████╔╝██████╔╝██║██╔██╗ ██║██║     █████╗
+██╔═══╝ ██╔══██╗██║██║╚██╗██║██║     ██╔══╝
+██║     ██║  ██║██║██║ ╚████║╚██████╗███████╗
+╚═╝     ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
+```
+
+### `> DATA SCIENCE STUDENT // AI ENGINEER // BUILDER`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=50&lines=%24+initializing+PrincePatel2830...;%24+loading+machine_learning...;%24+loading+artificial_intelligence...;%24+loading+full_stack_development...;%24+status%3A+ONLINE+%E2%9C%93" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=800&height=60&lines=🎓+BS+Data+Science+%40+IIT+Madras;🤖+Machine+Learning+%7C+Artificial+Intelligence;💻+Full-Stack+Developer;🧠+Deep+Learning+%7C+Generative+AI;🚀+Building+Intelligent+Software" />
-
-<br><br>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   [ SYSTEM ]     PRINCE PATEL                               │
+│   [ ROLE   ]     DATA SCIENCE STUDENT                       │
+│   [ BASE   ]     IIT MADRAS                                 │
+│   [ STATUS ]     BUILDING                                   │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 <a href="https://github.com/PrincePatel2830">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/%3E_GITHUB-00ff41?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505"/>
 </a>
-&nbsp;
 <a href="https://linkedin.com/in/princepatel7">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/%3E_LINKEDIN-00ff41?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=050505"/>
 </a>
-&nbsp;
 <a href="mailto:patelp8349@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/%3E_EMAIL-00ff41?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=050505"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=PrincePatel2830&label=PROFILE%20VISITORS&color=7C3AED&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=PrincePatel2830&label=SYSTEM%20VISITORS&color=00ff41&style=flat-square"/>
 
 </div>
 
 ---
+
+```text
+┌──[root@prince]─[~]
+└─$ whoami
+```
+
+# `PRINCE PATEL`
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  🎓 BS DATA SCIENCE @ IIT MADRAS                            │
+│                                                             │
+│  I build things with data, machine learning and code.      │
+│                                                             │
+│  Interested in:                                             │
+│                                                             │
+│    [01] Machine Learning                                    │
+│    [02] Artificial Intelligence                             │
+│    [03] Data Science                                        │
+│    [04] Deep Learning                                       │
+│    [05] Generative AI                                      │
+│    [06] Full-Stack Development                              │
+│                                                             │
+│  Current mission:                                           │
+│                                                             │
+│    Turn ideas → models → applications → real products      │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+```text
+┌──[root@prince]─[~]
+└─$ cat skills.txt
+```
+
+# `SKILLS`
+
+### `> PROGRAMMING`
+
+<img src="https://skillicons.dev/icons?i=python,javascript,java&theme=dark"/>
+
+```text
+Python
+JavaScript
+SQL
+```
+
+### `> MACHINE LEARNING`
+
+```text
+[████████████████████]  Machine Learning
+[██████████████████░░]  Data Analysis
+[█████████████████░░░]  Feature Engineering
+[████████████████░░░░]  Model Evaluation
+[███████████████░░░░░]  Deep Learning
+```
+
+<img src="https://img.shields.io/badge/NumPy-00ff41?style=flat-square&logo=numpy&logoColor=000"/>
+<img src="https://img.shields.io/badge/Pandas-00ff41?style=flat-square&logo=pandas&logoColor=000"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-00ff41?style=flat-square&logo=scikit-learn&logoColor=000"/>
+<img src="https://img.shields.io/badge/PyTorch-00ff41?style=flat-square&logo=pytorch&logoColor=000"/>
+<img src="https://img.shields.io/badge/LightGBM-00ff41?style=flat-square"/>
+<img src="https://img.shields.io/badge/XGBoost-00ff41?style=flat-square"/>
+<img src="https://img.shields.io/badge/CatBoost-00ff41?style=flat-square"/>
+
+### `> WEB DEVELOPMENT`
+
+<img src="https://skillicons.dev/icons?i=flask,vue,vite,html,css,bootstrap&theme=dark"/>
+
+```text
+Backend    → Flask • Jinja • JWT
+Frontend   → Vue.js • Vite • HTML • CSS • Bootstrap
+```
+
+### `> DATABASE`
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,redis&theme=dark"/>
+
+### `> DEVOPS / TOOLS`
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,render,cloudflare&theme=dark"/>
+
+---
+
+```text
+┌──[root@prince]─[~/projects]
+└─$ ls -la
+```
+
+# `PROJECTS`
+
+```text
+drwxr-xr-x  heavy-equipment-price-prediction/
+drwxr-xr-x  hospital-management-system/
+drwxr-xr-x  smart-mcq-solver/
+```
+
+---
+
+## `01 // HEAVY EQUIPMENT PRICE PREDICTION`
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  PROJECT TYPE   :: MACHINE LEARNING                        │
+│  PROBLEM        :: REGRESSION                              │
+│  DOMAIN         :: PRICE PREDICTION                         │
+│                                                             │
+│  ┌───────────────────────────────────────────────────────┐  │
+│  │                                                       │  │
+│  │  DATA → CLEANING → FEATURES → TRAINING → PREDICT     │  │
+│  │                                                       │  │
+│  └───────────────────────────────────────────────────────┘  │
+│                                                             │
+│  MODELS                                                     │
+│                                                             │
+│  > LightGBM                                                 │
+│  > XGBoost                                                  │
+│  > CatBoost                                                 │
+│                                                             │
+│  METHODS                                                    │
+│                                                             │
+│  > Feature Engineering                                     │
+│  > Hyperparameter Tuning                                   │
+│  > Model Evaluation                                         │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `02 // HOSPITAL MANAGEMENT SYSTEM`
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  PROJECT TYPE   :: FULL-STACK APPLICATION                   │
+│  BACKEND        :: FLASK                                    │
+│  DATABASE       :: SQLITE                                   │
+│                                                             │
+│  MODULES                                                    │
+│                                                             │
+│  [✓] Patient Management                                     │
+│  [✓] Doctor Management                                      │
+│  [✓] Appointment Scheduling                                 │
+│  [✓] Authentication                                         │
+│  [✓] Database Management                                    │
+│                                                             │
+│  STACK                                                      │
+│                                                             │
+│  Flask • Jinja • SQLAlchemy • SQLite • Bootstrap            │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `03 // SMART MCQ SOLVER`
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  PROJECT TYPE   :: AI / MACHINE LEARNING                    │
+│                                                             │
+│  INPUT                                                       │
+│     ↓                                                       │
+│  QUESTION + OPTIONS                                         │
+│     ↓                                                       │
+│  FEATURE PROCESSING                                         │
+│     ↓                                                       │
+│  ML PREDICTION                                              │
+│     ↓                                                       │
+│  ANSWER RANKING                                             │
+│     ↓                                                       │
+│  OUTPUT                                                     │
+│                                                             │
+│  Goal :: Intelligent answer prediction & ranking            │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+```text
+┌──[root@prince]─[~/learning]
+└─$ ./current_mission.sh
+```
+
+# `CURRENT MISSION`
+
+```text
+[████████████████████] Machine Learning
+[██████████████████░░] Deep Learning
+[████████████████░░░░] Generative AI
+[██████████████░░░░░░] LLM Applications
+[████████████░░░░░░░░] MLOps
+[██████████░░░░░░░░░░] AI Agents
+```
+
+```text
+┌───────────────────────────────────────────────┐
+│                                               │
+│  NEXT TARGET                                  │
+│                                               │
+│  → Build intelligent AI applications         │
+│  → Learn modern LLM architectures            │
+│  → Deploy production ML systems              │
+│  → Build useful real-world software          │
+│                                               │
+└───────────────────────────────────────────────┘
+```
+
+---
+
+```text
+┌──[root@prince]─[~]
+└─$ neofetch
+```
+
+# `SYSTEM_STATS`
 
 <div align="center">
 
-## 👋 Hey, I'm Prince
+<img src="https://github-readme-stats.shion.dev/api?username=PrincePatel2830&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-### 🎓 Data Science Student @ IIT Madras
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PrincePatel2830&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8"/>
 
-**Building intelligent systems with Data Science, Machine Learning & AI.**
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=PrincePatel2830&theme=matrix&hide_border=true"/>
 
 </div>
 
-<br>
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-## 🧑‍💻 About Me
-
-I'm a **Data Science student at IIT Madras** passionate about building intelligent, data-driven software.
-
-I enjoy working across the entire development pipeline — from **data analysis and machine learning** to **backend development, AI applications, and deployment**.
-
-### 🎯 Currently Focused On
-
-- 🤖 Machine Learning & Artificial Intelligence
-- 🧠 Deep Learning
-- ✨ Generative AI & LLM Applications
-- 📊 Data Analysis & Visualization
-- 🌐 Full-Stack Development
-- ⚙️ MLOps & Model Deployment
-
-### 🚀 My Goal
-
-> Build useful, intelligent software that solves real-world problems.
-
-</td>
-
-<td width="40%" valign="top">
-
-## ⚡ Quick Facts
-
-🎓 **Education**
-
-BS in Data Science  
-IIT Madras
-
-<br>
-
-💻 **Development**
-
-Python • JavaScript • SQL
-
-<br>
-
-🤖 **AI / ML**
-
-Scikit-Learn • PyTorch  
-LightGBM • XGBoost • CatBoost
-
-<br>
-
-🌐 **Web**
-
-Flask • Vue.js • Vite
-
-<br>
-
-🗄️ **Databases**
-
-PostgreSQL • SQLite • Redis
-
-<br>
-
-☁️ **Deployment**
-
-Vercel • Render • Cloudflare
-
-</td>
-</tr>
-</table>
-
 ---
 
-# ⚡ Tech Stack
+```text
+┌──[root@prince]─[~]
+└─$ ./achievements
+```
+
+# `ACHIEVEMENTS`
 
 <div align="center">
 
-### 💻 Programming
-
-<img src="https://skillicons.dev/icons?i=python,javascript,java&theme=dark" />
-
-<br><br>
-
-### 📊 Data Science
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-
-<br><br>
-
-### 🤖 Machine Learning & AI
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CatBoost-F7A800?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-
-<br><br>
-
-### 🌐 Backend & Frontend
-
-<img src="https://skillicons.dev/icons?i=flask,jinja,vue,vite,html,css,bootstrap&theme=dark" />
-
-<br><br>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,redis&theme=dark" />
-
-<br><br>
-
-### ☁️ Tools & Deployment
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,cloudflare&theme=dark" />
+<img src="https://github-profile-trophy.vercel.app/?username=PrincePatel2830&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=4"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+```text
+┌──[root@prince]─[~]
+└─$ git log --stat
+```
 
-<table>
-<tr>
+# `CONTRIBUTIONS`
 
-<td width="50%" valign="top">
+<div align="center">
 
-## 🚜 Heavy Equipment Price Prediction
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrincePatel2830&bg_color=050505&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="95%"/>
 
-### Machine Learning Regression
-
-A machine learning project focused on predicting the selling price of heavy equipment using advanced ensemble models.
-
-**🔬 Techniques**
-
-- 📊 Exploratory Data Analysis
-- 🔧 Feature Engineering
-- 🤖 Ensemble Learning
-- ⚙️ Hyperparameter Tuning
-- 📈 Model Evaluation
-
-**🧰 Technologies**
-
-`LightGBM` `XGBoost` `CatBoost` `Python`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🏥 Hospital Management System
-
-### Full-Stack Web Application
-
-A Flask-based application designed to manage hospital operations and healthcare workflows.
-
-**✨ Features**
-
-- 👨‍⚕️ Doctor Management
-- 🧑‍🤝‍🧑 Patient Management
-- 📅 Appointment Scheduling
-- 🔐 Authentication
-- 🗄️ Database Management
-
-**🧰 Technologies**
-
-`Flask` `Jinja` `SQLite` `SQLAlchemy`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🎯 Smart MCQ Solver
-
-### AI / Machine Learning
-
-An intelligent system for predicting and ranking possible answers to multiple-choice questions.
-
-**🧠 Focus Areas**
-
-- Machine Learning
-- Data Processing
-- Answer Prediction
-- Ranking
-- Model Evaluation
-
-**🧰 Technologies**
-
-`Python` `Machine Learning` `Data Science`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🧪 More Projects Coming
-
-### Always Building 🚀
-
-Currently exploring:
-
-- 🤖 Generative AI
-- 🧠 Deep Learning
-- 🔗 LLM Applications
-- ⚙️ MLOps
-- 🌐 AI-Powered Web Applications
-
-> More experiments and projects are on the way.
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
-# 🧠 My AI / ML Journey
+```text
+┌──[root@prince]─[~]
+└─$ cat philosophy.txt
+```
+
+# `PHILOSOPHY`
 
 <div align="center">
 
 ```text
-                         ┌──────────────┐
-                         │     DATA     │
-                         └──────┬───────┘
-                                │
-                                ▼
-                    ┌─────────────────────┐
-                    │   DATA SCIENCE      │
-                    │                     │
-                    │  EDA • Cleaning     │
-                    │  Features • Stats   │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │  MACHINE LEARNING   │
-                    │                     │
-                    │ Classification      │
-                    │ Regression          │
-                    │ Ensemble Models     │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │   DEEP LEARNING     │
-                    │                     │
-                    │ Neural Networks     │
-                    │ PyTorch             │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │   GENERATIVE AI     │
-                    │                     │
-                    │ LLMs • RAG          │
-                    │ AI Applications     │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                          🚀 BUILD
+                 ┌───────────────────────┐
+                 │       LEARN           │
+                 └───────────┬───────────┘
+                             │
+                             ▼
+                 ┌───────────────────────┐
+                 │       BUILD           │
+                 └───────────┬───────────┘
+                             │
+                             ▼
+                 ┌───────────────────────┐
+                 │      EXPERIMENT       │
+                 └───────────┬───────────┘
+                             │
+                             ▼
+                 ┌───────────────────────┐
+                 │       DEPLOY          │
+                 └───────────┬───────────┘
+                             │
+                             ▼
+                 ┌───────────────────────┐
+                 │       REPEAT          │
+                 └───────────────────────┘
 ```
+
+### `> Build things. Break things. Learn from them. Build again.`
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+```text
+┌──[root@prince]─[~]
+└─$ connect --with-prince
+```
+
+# `CONTACT`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=PrincePatel2830&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=PrincePatel2830&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
+```text
+┌──────────────────────────────────────────────────┐
+│                                                  │
+│  GitHub      →  PrincePatel2830                 │
+│  LinkedIn    →  princepatel7                    │
+│  Email       →  patelp8349@gmail.com            │
+│                                                  │
+└──────────────────────────────────────────────────┘
+```
 
 <br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=PrincePatel2830&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PrincePatel2830&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrincePatel2830&bg_color=0d1117&color=58a6ff&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-# 🛠️ How I Like to Work
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### 🧠 Learn
-
-Understand the fundamentals.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔨 Build
-
-Turn ideas into projects.
-
-</td>
-
-<td align="center" width="25%">
-
-### 📊 Analyze
-
-Use data to make decisions.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🚀 Ship
-
-Deploy and improve.
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🌱 Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-059669?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MLOps-DC2626?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Agents-0891B2?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
 <a href="https://github.com/PrincePatel2830">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/%3E_FOLLOW_GITHUB-00FF41?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505"/>
 </a>
 
 <a href="https://linkedin.com/in/princepatel7">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/%3E_CONNECT_LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=050505"/>
 </a>
 
 <a href="mailto:patelp8349@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/%3E_SEND_EMAIL-00FF41?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=050505"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=PrincePatel2830&label=VISITORS&color=00ff41&style=flat-square"/>
 
 </div>
 
@@ -428,28 +395,26 @@ Deploy and improve.
 
 <div align="center">
 
-### 💬 My Philosophy
-
-# **Build • Learn • Experiment • Deploy**
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│                  CONNECTION ESTABLISHED                     │
+│                                                              │
+│              PRINCE_PATEL@GITHUB:~$                         │
+│                                                              │
+│              "Turning data into intelligence."               │
+│                                                              │
+│                  [ SYSTEM ONLINE ]                           │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 <br>
 
-> *Turning ideas into intelligent software, one project at a time.*
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=PrincePatel2830&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=40&lines=%24+exit+0;%24+thanks+for+visiting;%24+see+you+in+the+next+commit+%F0%9F%9A%80" />
 
 <br><br>
 
-⭐ **If you find my work interesting, consider starring a repository!**
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7C3AED,35:4F46E5,65:1E3A8A,100:020617&section=footer&animation=fadeIn" width="100%"/>
+<sub>© Prince Patel • Data Science • AI • Machine Learning</sub>
 
 </div>
