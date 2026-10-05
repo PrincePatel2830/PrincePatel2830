@@ -1,636 +1,586 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,24,30&section=header&text=PRINCE%20PATEL&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=DATA%20SCIENCE%20%2F%20AI%20%2F%20SOFTWARE%20ENGINEERING&descAlignY=63&descSize=17&animation=fadeIn"/>
-
-<br>
-
-# `princepatel2830`
-
-### Building with **data. intelligence. and code.**
-
-<br>
-
-<a href="https://github.com/PrincePatel2830">
-<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/princepatel7">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:patelp8349@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </div>
 
 ---
 
 <div align="center">
 
-### `01 / IDENTITY`
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│                         P R I N C E   P A T E L                             │
+│                                                                             │
+│              DATA SCIENCE STUDENT  @  IIT MADRAS                           │
+│                                                                             │
+│       ┌────────────┐   ┌────────────┐   ┌────────────┐                    │
+│       │    DATA    │ → │    AI/ML   │ → │  SOFTWARE  │                    │
+│       └────────────┘   └────────────┘   └────────────┘                    │
+│                                                                             │
+│                   BUILDING • LEARNING • DEPLOYING                          │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
 
 </div>
 
-<table>
+<div align="center">
+
+// SYSTEM PROFILE
+</div>
+
+<table align="center">
 <tr>
-<td width="65%" valign="top">
 
-# 👋 Hi, I'm Prince.
+<td align="center" width="25%">
 
-I'm a **Data Science student at IIT Madras** interested in the intersection of **Machine Learning, Artificial Intelligence and Software Engineering**.
-
-I like taking an idea from:
-
-**data → model → backend → application → deployment**
-
-Rather than focusing on only one layer, I enjoy understanding how the different pieces of a real software system fit together.
-
-<br>
-
-### What I'm working toward
-
-`Machine Learning` · `Deep Learning` · `Generative AI` · `MLOps` · `Full-Stack Development`
-
-</td>
-
-<td width="35%" valign="top">
-
-### `CURRENT STATUS`
-
-```text
+🎓
 EDUCATION
-IIT Madras
-BS — Data Science
+────────────
+IIT MADRAS
 
-FOCUS
-AI / ML
-Software Engineering
-
-BUILDING
-Web Applications
-ML Systems
-AI Projects
-
-STATUS
-● Learning
-● Building
-● Experimenting
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### `02 / ENGINEERING STACK`
-
-</div>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🧠 Intelligence
-
-`Python`
-
-`Pandas`
-
-`NumPy`
-
-`Scikit-Learn`
-
-`PyTorch`
-
-`LightGBM`
-
-`XGBoost`
-
-`CatBoost`
-
-`MLflow`
+BS
+DATA SCIENCE
 
 </td>
 
-<td width="33%" valign="top">
-
-### ⚙️ Engineering
-
-`Flask`
-
-`Jinja`
-
-`JWT`
-
-`SQLAlchemy`
-
-`Celery`
-
-`Redis`
-
-`REST APIs`
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🌐 Product
-
-`Vue.js`
-
-`Vite`
-
-`HTML`
-
-`CSS`
-
-`Bootstrap`
-
-`PostgreSQL`
-
-`SQLite`
-
-</td>
-</tr>
-
-<tr>
-<td colspan="3" align="center">
-
-<br>
-
-**Development & Deployment**
-
-`Git` · `GitHub` · `GitHub Actions` · `Render` · `Vercel` · `Cloudflare`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,flask,vue,vite,pytorch,postgres,sqlite,redis,git,github&perline=11&theme=dark"/>
-
-</div>
-
----
-
-<div align="center">
-
-### `03 / SELECTED WORK`
-
-# Things I've Built
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 🚜 Heavy Equipment
-### Selling Price Prediction
-
-A machine learning regression system for predicting heavy equipment selling prices.
-
-**Approach**
-
-`Data Cleaning`  
-`Feature Engineering`  
-`Model Training`  
-`Hyperparameter Tuning`  
-`Model Evaluation`
-
-**Models**
-
-`LightGBM` · `XGBoost` · `CatBoost`
-
-<br>
-
-> **Focus:** turning messy data into useful predictions.
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🏥 Hospital
-### Management System
-
-A Flask-based web application for managing hospital operations.
-
-**Core Modules**
-
-`Patient Management`  
-`Doctor Management`  
-`Appointments`  
-`Authentication`  
-`Database Management`
-
-**Stack**
-
-`Flask` · `Jinja` · `SQLAlchemy` · `SQLite`
-
-<br>
-
-> **Focus:** building a complete web application around a real workflow.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-## 🎯 Smart MCQ Solver
-### AI / ML Application
-
-An AI/ML system designed to predict and rank possible answers for multiple-choice questions.
-
-**Pipeline**
-
-`Input` → `Processing` → `Prediction` → `Ranking`
-
-**Areas**
-
-`Machine Learning`  
-`Data Processing`  
-`Prediction`  
-`Evaluation`
-
-<br>
-
-> **Focus:** applying machine learning to an interactive problem.
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🎓 Placement Portal
-### PPA — V2
-
-A full-stack web application designed to help institutes manage **campus recruitment activities involving companies and students**.
-
-**Three-sided workflow**
-
-`ADMIN` → approvals & statistics
-
-`COMPANY` → drives, applications & interviews
-
-`STUDENT` → profiles, applications & tracking
-
-**Stack**
-
-`Flask` · `SQLite` · `SQLAlchemy`  
-`Redis` · `Celery`
-
-<br>
-
-> **Focus:** building a multi-role recruitment platform with asynchronous/background processing.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### `04 / PLACEMENT PORTAL`
-
-# PPA — V2
-
-</div>
-
-```text
-                         PLACEMENT PORTAL
-                                │
-              ┌─────────────────┼─────────────────┐
-              │                 │                 │
-              ▼                 ▼                 ▼
-           ADMIN             COMPANY           STUDENT
-              │                 │                 │
-              │                 │                 │
-        ┌─────┴─────┐     ┌─────┴─────┐     ┌─────┴─────┐
-        │ Approvals │     │  Drives   │     │  Profile  │
-        │ Statistics│     │ Applicants│     │ Applications│
-        └───────────┘     │ Interviews│     │  Tracking  │
-                          └───────────┘     └───────────┘
-                                │
-                                ▼
-                    ┌──────────────────────┐
-                    │     APPLICATION      │
-                    │                      │
-                    │ Flask + SQLAlchemy   │
-                    │ SQLite               │
-                    │ Redis                │
-                    │ Celery               │
-                    └──────────────────────┘
-```
-
-### Why this project stands out
-
-The project isn't just a CRUD application. It combines:
-
-- 🔐 Multiple user roles
-- 🏢 Company registration and placement drives
-- 👨‍🎓 Student applications
-- 📋 Application tracking
-- 🎯 Shortlisting
-- 📅 Interview scheduling
-- ⚡ Redis-based caching
-- 🔄 Celery background tasks
-
----
-
-<div align="center">
-
-### `05 / HOW I THINK`
-
-# From Problem → Product
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-### 01
-
-🔎
-
-**Understand**
-
-Problem & Data
-
-</td>
-
-<td align="center" width="20%">
-
-### 02
-
-🧹
-
-**Prepare**
-
-Clean & Structure
-
-</td>
-
-<td align="center" width="20%">
-
-### 03
+<td align="center" width="25%">
 
 🧠
+CORE
+────────────
+MACHINE
+LEARNING
 
-**Build**
-
-Models & Logic
-
-</td>
-
-<td align="center" width="20%">
-
-### 04
-
-⚙️
-
-**Integrate**
-
-Application
+ARTIFICIAL
+INTELLIGENCE
 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="25%">
 
-### 05
+💻
+BUILD
+────────────
+AI SYSTEMS
+
+WEB APPS
+
+ML PRODUCTS
+
+</td>
+
+<td align="center" width="25%">
 
 🚀
+MISSION
+────────────
+LEARN
 
-**Deploy**
+BUILD
 
-Real Usage
+DEPLOY
 
 </td>
+
 </tr>
 </table>
 
----
+<div align="center">
+
+// TECH MATRIX
+</div>
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="33%">
+
+LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,js,java&theme=dark"/>
+
+
+
+
+<img src="https://img.shields.io/badge/PYTHON-00FF88?style=flat-square&logo=python&logoColor=000"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-00FF88?style=flat-square&logo=javascript&logoColor=000"/>
+<img src="https://img.shields.io/badge/SQL-00FF88?style=flat-square"/>
+
+</td>
+
+<td align="center" width="33%">
+
+AI / DATA
+
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark"/>
+
+
+
+
+<img src="https://img.shields.io/badge/NUMPY-00FF88?style=flat-square&logo=numpy&logoColor=000"/>
+<img src="https://img.shields.io/badge/PANDAS-00FF88?style=flat-square&logo=pandas&logoColor=000"/>
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-00FF88?style=flat-square&logo=scikit-learn&logoColor=000"/>
+
+
+<img src="https://img.shields.io/badge/PYTORCH-00FF88?style=flat-square&logo=pytorch&logoColor=000"/>
+<img src="https://img.shields.io/badge/MLFLOW-00FF88?style=flat-square&logo=mlflow&logoColor=000"/>
+
+</td>
+
+<td align="center" width="33%">
+
+WEB / BACKEND
+
+<img src="https://skillicons.dev/icons?i=flask,vue,vite,html,css&theme=dark"/>
+
+
+
+
+<img src="https://img.shields.io/badge/FLASK-00FF88?style=flat-square&logo=flask&logoColor=000"/>
+<img src="https://img.shields.io/badge/JINJA-00FF88?style=flat-square&logo=jinja&logoColor=000"/>
+<img src="https://img.shields.io/badge/JWT-00FF88?style=flat-square"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+DATABASE
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,redis&theme=dark"/>
+
+
+
+
+POSTGRESQL · SQLITE · REDIS
+</td>
+
+<td align="center">
+
+ML MODELS
+
+LIGHTGBM
+XGBOOST
+CATBOOST
+SCIKIT-LEARN
+PYTORCH
+
+</td>
+
+<td align="center">
+
+DEVOPS
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,render,cloudflare&theme=dark"/>
+
+</td>
+
+</tr>
+
+</table>
 
 <div align="center">
 
-### `06 / CURRENTLY EXPLORING`
-
+// PROJECT DATABASE
 </div>
 
 <table>
+
 <tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+🚜
+HEAVY EQUIPMENT
+PRICE PREDICTION ENGINE
+</div>
+
+TYPE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MACHINE LEARNING / REGRESSION
+
+PIPELINE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+RAW DATA
+   ↓
+CLEANING
+   ↓
+FEATURE ENGINEERING
+   ↓
+MODEL TRAINING
+   ↓
+HYPERPARAMETER TUNING
+   ↓
+PREDICTION
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LIGHTGBM-00FF88?style=flat-square"/>
+<img src="https://img.shields.io/badge/XGBOOST-00FF88?style=flat-square"/>
+<img src="https://img.shields.io/badge/CATBOOST-00FF88?style=flat-square"/>
+<img src="https://img.shields.io/badge/PYTHON-00FF88?style=flat-square"/>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+🏥
+HOSPITAL SYSTEM
+MANAGEMENT PLATFORM
+</div>
+
+TYPE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FULL STACK WEB APPLICATION
+
+MODULES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PATIENTS
+DOCTORS
+APPOINTMENTS
+AUTHENTICATION
+DATABASE
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FLASK-00FF88?style=flat-square"/>
+<img src="https://img.shields.io/badge/JINJA-00FF88?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQLALCHEMY-00FF88?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQLITE-00FF88?style=flat-square"/>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+🎯
+SMART MCQ SOLVER
+AI ANSWER ENGINE
+</div>
+
+INPUT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUESTION + OPTIONS
+
+        ↓
+
+PROCESSING
+
+        ↓
+
+ML PREDICTION
+
+        ↓
+
+ANSWER RANKING
+
+        ↓
+
+OUTPUT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+RANKED POSSIBILITIES
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-00FF88?style=flat-square"/>
+<img src="https://img.shields.io/badge/DATA%20PROCESSING-00FF88?style=flat-square"/>
+<img src="https://img.shields.io/badge/PREDICTION-00FF88?style=flat-square"/>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+🎓
+PLACEMENT PORTAL
+PPA — V2
+</div>
+
+TYPE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FULL STACK RECRUITMENT PLATFORM
+
+ARCHITECTURE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+             PLATFORM
+                 │
+       ┌─────────┼─────────┐
+       ↓         ↓         ↓
+     ADMIN     COMPANY   STUDENT
+       │         │         │
+   APPROVALS   DRIVES   PROFILE
+   STATISTICS  APPS     APPLY
+               │         │
+          INTERVIEWS   TRACK
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FLASK-00FF88?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQLITE-00FF88?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQLALCHEMY-00FF88?style=flat-square"/>
+<img src="https://img.shields.io/badge/REDIS-00FF88?style=flat-square"/>
+<img src="https://img.shields.io/badge/CELERY-00FF88?style=flat-square"/>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+<div align="center">
+
+// PPA — V2
+PLACEMENT PORTAL APPLICATION
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║                         PLACEMENT ECOSYSTEM                              ║
+║                                                                          ║
+║       ┌──────────────┐                                                   ║
+║       │    ADMIN     │                                                   ║
+║       ├──────────────┤                                                   ║
+║       │ REGISTRATIONS│                                                   ║
+║       │ DRIVE REVIEW │                                                   ║
+║       │ STATISTICS   │                                                   ║
+║       └───────┬──────┘                                                   ║
+║               │                                                          ║
+║               ▼                                                          ║
+║       ┌──────────────────────────────────────┐                           ║
+║       │          PLACEMENT ENGINE            │                           ║
+║       │                                      │                           ║
+║       │ Flask • SQLAlchemy • SQLite          │                           ║
+║       │ Redis • Celery                       │                           ║
+║       └───────────────┬──────────────────────┘                           ║
+║                       │                                                  ║
+║              ┌────────┴────────┐                                         ║
+║              ▼                 ▼                                         ║
+║       ┌─────────────┐   ┌─────────────┐                                 ║
+║       │   COMPANY   │   │   STUDENT   │                                 ║
+║       ├─────────────┤   ├─────────────┤                                 ║
+║       │ REGISTER    │   │ REGISTER    │                                 ║
+║       │ CREATE DRIVE│   │ PROFILE     │                                 ║
+║       │ APPLICATIONS│   │ APPLY       │                                 ║
+║       │ SHORTLIST   │   │ TRACK       │                                 ║
+║       │ INTERVIEWS  │   │ APPLICATION │                                 ║
+║       └─────────────┘   └─────────────┘                                 ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+
+</div>
+
+<div align="center">
+
+// ENGINEERING FLOW
+                         ┌───────────────┐
+                         │    PROBLEM    │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │      DATA     │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                    ┌────────────────────────┐
+                    │     PROCESS / MODEL    │
+                    └────────────┬───────────┘
+                                 │
+                                 ▼
+                    ┌────────────────────────┐
+                    │       BACKEND          │
+                    └────────────┬───────────┘
+                                 │
+                                 ▼
+                    ┌────────────────────────┐
+                    │      APPLICATION       │
+                    └────────────┬───────────┘
+                                 │
+                                 ▼
+                    ┌────────────────────────┐
+                    │        DEPLOY          │
+                    └────────────┬───────────┘
+                                 │
+                                 ▼
+                              `∞`
+
+</div>
+
+<div align="center">
+
+// CURRENTLY LOADING
+<table>
+<tr>
+
 <td align="center">
 
-🧠  
-**Deep Learning**
+🧠
+DEEP
+LEARNING
 
 </td>
 
 <td align="center">
 
-✨  
-**Generative AI**
+✨
+GENERATIVE
+AI
 
 </td>
 
 <td align="center">
 
-🔗  
-**LLM Applications**
+🔗
+LLM
+SYSTEMS
 
 </td>
 
 <td align="center">
 
-⚙️  
-**MLOps**
+⚙️
+MLOPS
 
 </td>
 
 <td align="center">
 
-🤖  
-**AI Systems**
+🤖
+AI
+AGENTS
 
 </td>
+
 </tr>
 </table>
 
-<br>
 
-<div align="center">
-
-```text
-        LEARN
-          ↓
-        BUILD
-          ↓
-      EXPERIMENT
-          ↓
-       DEPLOY
-          ↓
-        IMPROVE
-          ↺
-```
-
-</div>
-
----
-
-<div align="center">
-
-### `07 / GITHUB ACTIVITY`
+<img src="https://img.shields.io/badge/LEARNING-00FF88?style=for-the-badge&logoColor=000"/>
+<img src="https://img.shields.io/badge/BUILDING-00FF88?style=for-the-badge&logoColor=000"/>
+<img src="https://img.shields.io/badge/EXPERIMENTING-00FF88?style=for-the-badge&logoColor=000"/>
+<img src="https://img.shields.io/badge/DEPLOYING-00FF88?style=for-the-badge&logoColor=000"/>
 
 </div>
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.shion.dev/api?username=PrincePatel2830&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+// GITHUB TELEMETRY
 
-<img height="175" src="https://github-readme-stats.shion.dev/api/top-langs/?username=PrincePatel2830&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=PrincePatel2830&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<br><br>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrincePatel2830&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+
+
+
 
 <img src="https://streak-stats.demolab.com/?user=PrincePatel2830&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
----
----
-
 <div align="center">
 
-### `08 / GITHUB ACTIVITY`
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=PrincePatel2830&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrincePatel2830&theme=github-dark-blue&hide_border=true" height="170"/>
-
-<br><br>
-
-<a href="https://github.com/PrincePatel2830">
-<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+// CODE SIGNAL
+╭──────────────────────────────────────────────────────────────────────────╮
+│                                                                          │
+│     PYTHON        ████████████████████████████████░░                    │
+│     ML            █████████████████████████████░░░░                    │
+│     AI            ██████████████████████████░░░░░░                    │
+│     FLASK         ████████████████████████░░░░░░░░                    │
+│     SQL           █████████████████████████░░░░░░░                    │
+│     FRONTEND      ████████████████████░░░░░░░░░░                    │
+│                                                                          │
+╰──────────────────────────────────────────────────────────────────────────╯
 
 </div>
 
----
-
 <div align="center">
 
-### `09 / CONTRIBUTION HISTORY`
-
-<br>
-
-<a href="https://github.com/PrincePatel2830">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrincePatel2830&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
-
-</a>
-
-<br><br>
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   CODE        BUILD        LEARN        REPEAT           │
-│                                                         │
-│   Python      AI/ML        Deep Learning                 │
-│   Flask       Data         GenAI                         │
-│   Vue         Software     MLOps                         │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-
-
-
-<div align="center">
-
-### `10 / BEYOND THE CODE`
-
-<table>
-<tr>
-<td>
-
-**🎓 Student**
-
-Learning through IIT Madras' Data Science program.
-
-</td>
-
-<td>
-
-**🔬 Explorer**
-
-Experimenting with ML, AI and new technologies.
-
-</td>
-
-<td>
-
-**🛠 Builder**
-
-Turning concepts into working applications.
-
-</td>
-
-<td>
-
-**🚀 Learner**
-
-Improving with every project.
-
-</td>
-</tr>
-</table>
+// DEVELOPMENT LOOP
+       ┌────────┐
+       │ LEARN  │
+       └───┬────┘
+           │
+           ▼
+       ┌────────┐
+       │ BUILD  │
+       └───┬────┘
+           │
+           ▼
+       ┌────────┐
+       │ TEST   │
+       └───┬────┘
+           │
+           ▼
+       ┌────────┐
+       │ DEPLOY │
+       └───┬────┘
+           │
+           ▼
+       ┌────────┐
+       │ IMPROVE│
+       └───┬────┘
+           │
+           └───────────────↺
 
 </div>
 
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=footer" width="80%"/>
-
-<br><br>
-
-# Let's build something interesting.
-
-### `Data × Intelligence × Software`
-
-<br>
+// CONNECT
 
 <a href="https://github.com/PrincePatel2830">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/%3E%20GITHUB-00FF88?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505"/>
 </a>
 
 <a href="https://linkedin.com/in/princepatel7">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-161B22?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/%3E%20LINKEDIN-00FF88?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=050505"/>
 </a>
 
 <a href="mailto:patelp8349@gmail.com">
-<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-161B22?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/%3E%20EMAIL-00FF88?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=050505"/>
 </a>
 
-<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=PrincePatel2830&label=PROFILE%20VIEWS&color=161B22&style=flat-square"/>
 
-<br><br>
 
-<sub>Thanks for stopping by. 👋</sub>
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│                       PRINCEPATEL2830                               │
+│                                                                     │
+│              DATA  ×  INTELLIGENCE  ×  SOFTWARE                    │
+│                                                                     │
+│                    BUILD • LEARN • DEPLOY                           │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 
-<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:111827,50:0f172a,100:020617&section=footer"/>
+<img src="https://komarev.com/ghpvc/?username=PrincePatel2830&label=VISITORS&color=00ff88&style=flat-square"/>
 
+
+
+
+<sub>© 2026 PRINCE PATEL • IIT MADRAS • DATA SCIENCE</sub>
 </div>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:00ff88,30:064e3b,65:0a0a0a,100:050505&section=footer"/>
+```
