@@ -1,523 +1,460 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,35:0a0a0a,65:111111,100:00ff88&section=header&text=PRINCE%20PATEL&fontSize=64&fontColor=00ff88&fontAlignY=38&desc=DATA%20SCIENCE%20%E2%80%A2%20AI%20%E2%80%A2%20MACHINE%20LEARNING%20%E2%80%A2%20SOFTWARE&descAlignY=63&descSize=15&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050914,45:0B1424,75:172554,100:1677FF&section=header&text=PRINCE%20PATEL&fontSize=62&fontColor=F5F7FA&fontAlignY=38&desc=DATA%20SCIENCE%20%E2%80%A2%20AI%20%E2%80%A2%20MACHINE%20LEARNING%20%E2%80%A2%20SOFTWARE&descAlignY=62&descSize=14&animation=fadeIn" width="100%"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=700&color=3B82F6&center=true&vCenter=true&width=850&height=45&lines=%3E+DATA+SCIENCE+%40+IIT+MADRAS;%3E+MACHINE+LEARNING+%7C+ARTIFICIAL+INTELLIGENCE;%3E+FULL+STACK+%7C+MLOPS+%7C+GENAI;%3E+BUILDING+INTELLIGENT+SYSTEMS" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=700&color=00FF88&center=true&vCenter=true&width=850&height=55&lines=%3E+INITIALIZING+PRINCEPATEL2830...;%3E+DATA+SCIENCE+%40+IIT+MADRAS;%3E+MACHINE+LEARNING+%7C+ARTIFICIAL+INTELLIGENCE;%3E+FULL+STACK+%7C+MLOPS+%7C+GENAI;%3E+SYSTEM+STATUS%3A+ONLINE+%E2%9C%93"/>
+<br/>
 
-<br><br>
+<a href="https://github.com/PrincePatel2830">
+<img src="https://img.shields.io/badge/GitHub-050914?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+<a href="https://linkedin.com/in/princepatel7">
+<img src="https://img.shields.io/badge/LinkedIn-050914?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<a href="mailto:patelp8349@gmail.com">
+<img src="https://img.shields.io/badge/Email-050914?style=for-the-badge&logo=gmail&logoColor=FF3158"/>
+</a>
 
-<a href="https://github.com/PrincePatel2830"><img src="https://img.shields.io/badge/GITHUB-00FF88?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505"/></a>
-&nbsp;
-<a href="https://linkedin.com/in/princepatel7"><img src="https://img.shields.io/badge/LINKEDIN-00FF88?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=050505"/></a>
-&nbsp;
-<a href="mailto:patelp8349@gmail.com"><img src="https://img.shields.io/badge/EMAIL-00FF88?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=050505"/></a>
+<br/><br/>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=PrincePatel2830&label=PROFILE%20VISITS&color=00ff88&style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-<h2>⌁ SYSTEM PROFILE ⌁</h2>
-
-<table>
-<tr>
-<td align="center" width="25%"><h3>🎓</h3><b>EDUCATION</b><br><br>IIT MADRAS<br>BS • DATA SCIENCE</td>
-<td align="center" width="25%"><h3>🧠</h3><b>CORE</b><br><br>MACHINE LEARNING<br>ARTIFICIAL INTELLIGENCE</td>
-<td align="center" width="25%"><h3>💻</h3><b>BUILD</b><br><br>AI SYSTEMS<br>WEB APPLICATIONS</td>
-<td align="center" width="25%"><h3>🚀</h3><b>MISSION</b><br><br>LEARN<br>BUILD • DEPLOY</td>
-</tr>
-</table>
+<img src="https://komarev.com/ghpvc/?username=PrincePatel2830&style=flat-square&color=1677FF&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-<h2>⌁ TECH MATRIX ⌁</h2>
-
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="12%" valign="top">
 
-<h3>LANGUAGES</h3>
-
-<img src="https://skillicons.dev/icons?i=python,js,java&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/PYTHON-00FF88?style=flat-square&logo=python&logoColor=000"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-00FF88?style=flat-square&logo=javascript&logoColor=000"/>
-<img src="https://img.shields.io/badge/SQL-00FF88?style=flat-square"/>
+### 01
 
 </td>
+<td width="88%" valign="top">
 
-<td align="center" width="33%">
+## PROFILE
 
-<h3>AI / DATA</h3>
+### PRINCE PATEL
 
-<img src="https://skillicons.dev/icons?i=pytorch&theme=dark"/>
+**BS Data Science — IIT Madras**
 
-<br><br>
+Data Science &nbsp;•&nbsp; Machine Learning &nbsp;•&nbsp; Artificial Intelligence &nbsp;•&nbsp; Software Development
 
-<img src="https://img.shields.io/badge/NUMPY-00FF88?style=flat-square&logo=numpy&logoColor=000"/>
-<img src="https://img.shields.io/badge/PANDAS-00FF88?style=flat-square&logo=pandas&logoColor=000"/>
-<img src="https://img.shields.io/badge/SCIKIT--LEARN-00FF88?style=flat-square&logo=scikit-learn&logoColor=000"/>
-<img src="https://img.shields.io/badge/MATPLOTLIB-00FF88?style=flat-square&logo=matplotlib&logoColor=000"/>
-<img src="https://img.shields.io/badge/PLOTLY-00FF88?style=flat-square&logo=plotly&logoColor=000"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/PYTORCH-00FF88?style=flat-square&logo=pytorch&logoColor=000"/>
-<img src="https://img.shields.io/badge/MLFLOW-00FF88?style=flat-square&logo=mlflow&logoColor=000"/>
-<img src="https://img.shields.io/badge/LIGHTGBM-00FF88?style=flat-square"/>
-<img src="https://img.shields.io/badge/XGBOOST-00FF88?style=flat-square"/>
-<img src="https://img.shields.io/badge/CATBOOST-00FF88?style=flat-square"/>
-
-</td>
-
-<td align="center" width="33%">
-
-<h3>WEB / BACKEND</h3>
-
-<img src="https://skillicons.dev/icons?i=flask,vue,vite,html,css,bootstrap&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/FLASK-00FF88?style=flat-square&logo=flask&logoColor=000"/>
-<img src="https://img.shields.io/badge/JINJA-00FF88?style=flat-square&logo=jinja&logoColor=000"/>
-<img src="https://img.shields.io/badge/JWT-00FF88?style=flat-square"/>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<h3>DATABASE</h3>
-
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,redis&theme=dark"/>
-
-<br><br>
-
-POSTGRESQL • SQLITE • REDIS
-
-</td>
-
-<td align="center">
-
-<h3>BACKGROUND / MLOPS</h3>
-
-<img src="https://img.shields.io/badge/CELERY-00FF88?style=flat-square"/>
-<img src="https://img.shields.io/badge/REDIS-00FF88?style=flat-square&logo=redis&logoColor=000"/>
-<img src="https://img.shields.io/badge/MLFLOW-00FF88?style=flat-square&logo=mlflow&logoColor=000"/>
-
-</td>
-
-<td align="center">
-
-<h3>DEVOPS</h3>
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,render,cloudflare&theme=dark"/>
+| CURRENTLY EXPLORING | OPEN TO |
+|---|---|
+| Deep Learning | Internships |
+| Generative AI | Collaborations |
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
-
-<div align="center">
-
-<h2>⌁ PROJECT DATABASE ⌁</h2>
-
-</div>
 
 <table>
 <tr>
+<td width="12%" valign="top">
 
-<td width="50%" valign="top">
-
-<div align="center">
-
-<h1>🚜</h1>
-<h2>HEAVY EQUIPMENT</h2>
-<h3>PRICE PREDICTION ENGINE</h3>
-
-</div>
-
-**TYPE**
-
-`MACHINE LEARNING / REGRESSION`
-
-**PIPELINE**
-
-`RAW DATA` → `CLEANING` → `FEATURE ENGINEERING` → `MODEL TRAINING` → `TUNING` → `PREDICTION`
-
-**MODELS**
-
-`LightGBM` • `XGBoost` • `CatBoost`
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/LIGHTGBM-00FF88?style=flat-square"/>
-<img src="https://img.shields.io/badge/XGBOOST-00FF88?style=flat-square"/>
-<img src="https://img.shields.io/badge/CATBOOST-00FF88?style=flat-square"/>
-<img src="https://img.shields.io/badge/PYTHON-00FF88?style=flat-square"/>
-
-</div>
+### 02
 
 </td>
+<td width="88%" valign="top">
 
+## TECH STACK
+
+### PROGRAMMING
+
+<img src="https://skillicons.dev/icons?i=python,js,mysql&theme=dark" />
+
+### AI / DATA
+
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Pandas-08111F?style=for-the-badge&logo=pandas&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/NumPy-08111F?style=for-the-badge&logo=numpy&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-08111F?style=for-the-badge&logo=scikit-learn&logoColor=FF3158"/>
+<img src="https://img.shields.io/badge/Matplotlib-08111F?style=for-the-badge&logo=matplotlib&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/Plotly-08111F?style=for-the-badge&logo=plotly&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/MLflow-08111F?style=for-the-badge&logo=mlflow&logoColor=FF3158"/>
+<img src="https://img.shields.io/badge/LightGBM-08111F?style=for-the-badge&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/XGBoost-08111F?style=for-the-badge&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/CatBoost-08111F?style=for-the-badge&logoColor=FF3158"/>
+
+### WEB / BACKEND
+
+<img src="https://skillicons.dev/icons?i=flask,vue,vite,html,css,bootstrap&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Jinja-08111F?style=for-the-badge&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/JWT-08111F?style=for-the-badge&logo=jsonwebtokens&logoColor=FF3158"/>
+
+### DATABASE
+
+<img src="https://skillicons.dev/icons?i=sqlite,postgres,redis&theme=dark" />
+
+### DEVOPS / DEPLOYMENT
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Render-08111F?style=for-the-badge&logo=render&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/Vercel-08111F?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Cloudflare-08111F?style=for-the-badge&logo=cloudflare&logoColor=FF3158"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="12%" valign="top">
+
+### 03
+
+</td>
+<td width="88%" valign="top">
+
+## SELECTED PROJECTS
+
+<table>
+<tr>
 <td width="50%" valign="top">
 
-<div align="center">
+### 01 / HEAVY EQUIPMENT PRICE PREDICTION
 
-<h1>🏥</h1>
-<h2>HOSPITAL SYSTEM</h2>
-<h3>MANAGEMENT PLATFORM</h3>
-
-</div>
-
-**TYPE**
-
-`FULL STACK WEB APPLICATION`
-
-**MODULES**
-
-`PATIENTS` • `DOCTORS` • `APPOINTMENTS` • `AUTHENTICATION` • `DATABASE`
+Machine learning regression system for predicting heavy equipment selling prices.
 
 **STACK**
 
-`Flask` • `Jinja` • `SQLAlchemy` • `SQLite`
+`LightGBM` `XGBoost` `CatBoost`
 
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/FLASK-00FF88?style=flat-square"/>
-<img src="https://img.shields.io/badge/JINJA-00FF88?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQLALCHEMY-00FF88?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQLITE-00FF88?style=flat-square"/>
-
-</div>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-<h1>🎯</h1>
-<h2>SMART MCQ SOLVER</h2>
-<h3>AI ANSWER ENGINE</h3>
-
-</div>
-
-**FLOW**
-
-`QUESTION + OPTIONS`
-
-↓
-
-`PROCESSING`
-
-↓
-
-`ML PREDICTION`
-
-↓
-
-`ANSWER RANKING`
-
-↓
-
-`RANKED OUTPUT`
+`Feature Engineering` `Hyperparameter Tuning`
 
 **FOCUS**
 
-`Machine Learning` • `Data Processing` • `Prediction` • `Ranking`
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI-00FF88?style=flat-square"/>
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-00FF88?style=flat-square"/>
-<img src="https://img.shields.io/badge/PREDICTION-00FF88?style=flat-square"/>
-
-</div>
+Regression • ML • Model Optimization
 
 </td>
 
 <td width="50%" valign="top">
 
-<div align="center">
+### 02 / HOSPITAL MANAGEMENT SYSTEM
 
-<h1>🎓</h1>
-<h2>PLACEMENT PORTAL</h2>
-<h3>PPA — V2</h3>
+Flask-based hospital management web application.
 
-</div>
+**FEATURES**
 
-**TYPE**
-
-`FULL STACK RECRUITMENT PLATFORM`
-
-**ROLES**
-
-`ADMIN` • `COMPANY` • `STUDENT`
-
-**ADMIN**
-
-`REGISTRATIONS` • `DRIVE APPROVAL` • `STATISTICS`
-
-**COMPANY**
-
-`PROFILE` • `DRIVES` • `APPLICATIONS` • `SHORTLISTING` • `INTERVIEWS`
-
-**STUDENT**
-
-`REGISTRATION` • `PROFILE` • `APPLY` • `APPLICATION TRACKING`
+Patient Management  
+Doctor Management  
+Appointment Scheduling
 
 **STACK**
 
-`Flask` • `SQLite` • `SQLAlchemy` • `Redis` • `Celery`
+`Flask` `SQLite` `SQLAlchemy`
 
-<br>
+</td>
+</tr>
 
-<div align="center">
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/FLASK-00FF88?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQLITE-00FF88?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQLALCHEMY-00FF88?style=flat-square"/>
-<img src="https://img.shields.io/badge/REDIS-00FF88?style=flat-square"/>
-<img src="https://img.shields.io/badge/CELERY-00FF88?style=flat-square"/>
+### 03 / SMART MCQ SOLVER
 
-</div>
+AI/ML system for predicting and ranking answers to multiple-choice questions.
+
+**FOCUS**
+
+Artificial Intelligence  
+Machine Learning  
+Answer Prediction  
+Ranking
 
 </td>
 
+<td width="50%" valign="top">
+
+### 04 / PLACEMENT PORTAL — PPA V2
+
+Institute campus recruitment management platform.
+
+**STACK**
+
+`Flask` `SQLite` `SQLAlchemy`
+
+`Redis` `Celery`
+
+**ROLES**
+
+Admin • Company • Student
+
+</td>
+</tr>
+</table>
+
+</td>
 </tr>
 </table>
 
 ---
 
-<div align="center">
+<table>
+<tr>
+<td width="12%" valign="top">
 
-<h2>⌁ PLACEMENT PORTAL • PPA V2 ⌁</h2>
+### 04
+
+</td>
+<td width="88%" valign="top">
+
+## PLACEMENT PORTAL — PPA V2
+
+### FEATURED BUILD
+
+A campus recruitment management platform connecting **Admin, Companies and Students**.
 
 <table>
 <tr>
+<td width="33%" valign="top">
 
-<td align="center" width="33%">
+### 01 / ADMIN
 
-<h2>👨‍💼 ADMIN</h2>
-
-`COMPANY APPROVAL`
-
-`DRIVE APPROVAL`
-
-`STATISTICS`
+- Approve/reject company registrations
+- Approve/reject placement drives
+- View statistics
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" valign="top">
 
-<h2>🏢 COMPANY</h2>
+### 02 / COMPANY
 
-`PROFILE`
-
-`PLACEMENT DRIVES`
-
-`APPLICATIONS`
-
-`SHORTLISTING`
-
-`INTERVIEWS`
+- Register company profile
+- Create placement drives
+- View applications
+- Shortlist students
+- Schedule interviews
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" valign="top">
 
-<h2>🎓 STUDENT</h2>
+### 03 / STUDENT
 
-`REGISTRATION`
-
-`PROFILE`
-
-`APPLY`
-
-`TRACK APPLICATIONS`
+- Register
+- Login
+- Update profile
+- Apply for drives
+- Track applications
 
 </td>
-
 </tr>
 </table>
 
-<br>
-
-<img src="https://img.shields.io/badge/FLASK-00FF88?style=for-the-badge&logo=flask&logoColor=000"/>
-<img src="https://img.shields.io/badge/SQLALCHEMY-00FF88?style=for-the-badge&logoColor=000"/>
-<img src="https://img.shields.io/badge/SQLITE-00FF88?style=for-the-badge&logo=sqlite&logoColor=000"/>
-<img src="https://img.shields.io/badge/REDIS-00FF88?style=for-the-badge&logo=redis&logoColor=000"/>
-<img src="https://img.shields.io/badge/CELERY-00FF88?style=for-the-badge&logoColor=000"/>
-
-</div>
-
----
-
-<div align="center">
-
-<h2>⌁ ENGINEERING FLOW ⌁</h2>
-
-<table>
-<tr>
-<td align="center">🔎<br><b>PROBLEM</b></td>
-<td>→</td>
-<td align="center">📊<br><b>DATA</b></td>
-<td>→</td>
-<td align="center">🧠<br><b>MODEL</b></td>
-<td>→</td>
-<td align="center">⚙️<br><b>BACKEND</b></td>
-<td>→</td>
-<td align="center">🌐<br><b>APPLICATION</b></td>
-<td>→</td>
-<td align="center">🚀<br><b>DEPLOY</b></td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<h2>⌁ CURRENTLY LOADING ⌁</h2>
-
-<table>
-<tr>
-
-<td align="center">🧠<br><b>DEEP LEARNING</b></td>
-<td align="center">✨<br><b>GENERATIVE AI</b></td>
-<td align="center">🔗<br><b>LLM SYSTEMS</b></td>
-<td align="center">⚙️<br><b>MLOPS</b></td>
-<td align="center">🤖<br><b>AI AGENTS</b></td>
-
-</tr>
-</table>
-
-<br>
-
-<img src="https://img.shields.io/badge/LEARNING-00FF88?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BUILDING-00FF88?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EXPERIMENTING-00FF88?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DEPLOYING-00FF88?style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-<h2>⌁ GITHUB TELEMETRY ⌁</h2>
-
-<br>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=PrincePatel2830&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrincePatel2830&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=PrincePatel2830&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<h2>⌁ DEVELOPMENT LOOP ⌁</h2>
-
-<table>
-<tr>
-<td align="center"><h2>01</h2>🧠<br><b>LEARN</b></td>
-<td>→</td>
-<td align="center"><h2>02</h2>🔨<br><b>BUILD</b></td>
-<td>→</td>
-<td align="center"><h2>03</h2>🧪<br><b>TEST</b></td>
-<td>→</td>
-<td align="center"><h2>04</h2>🚀<br><b>DEPLOY</b></td>
-<td>→</td>
-<td align="center"><h2>05</h2>📈<br><b>IMPROVE</b></td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<h2>⌁ CONNECT ⌁</h2>
-
-<br>
-
-<a href="https://github.com/PrincePatel2830">
-<img src="https://img.shields.io/badge/%3E%20GITHUB-00FF88?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505"/>
-</a>
-
-<a href="https://linkedin.com/in/princepatel7">
-<img src="https://img.shields.io/badge/%3E%20LINKEDIN-00FF88?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=050505"/>
-</a>
-
-<a href="mailto:patelp8349@gmail.com">
-<img src="https://img.shields.io/badge/%3E%20EMAIL-00FF88?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=050505"/>
-</a>
-
-<br><br>
+### ARCHITECTURE
 
 <table>
 <tr>
 <td align="center">
 
-<h2>PRINCEPATEL2830</h2>
+**FRONTEND**
 
-`DATA` × `INTELLIGENCE` × `SOFTWARE`
+↓
 
-<br>
+**FLASK BACKEND**
 
-`BUILD` • `LEARN` • `DEPLOY`
+↓
+
+**SQLALCHEMY**
+
+↓
+
+**SQLITE**
+
+</td>
+
+<td align="center">
+
+**REDIS**
+
+<br/>
+
+Caching
+
+<br/><br/>
+
+**CELERY**
+
+<br/>
+
+Background Tasks
 
 </td>
 </tr>
 </table>
 
-<br>
+### STACK
 
-<img src="https://komarev.com/ghpvc/?username=PrincePatel2830&label=VISITORS&color=00ff88&style=flat-square"/>
+<img src="https://img.shields.io/badge/Flask-08111F?style=for-the-badge&logo=flask&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/SQLite-08111F?style=for-the-badge&logo=sqlite&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-08111F?style=for-the-badge&logo=sqlalchemy&logoColor=FF3158"/>
+<img src="https://img.shields.io/badge/Redis-08111F?style=for-the-badge&logo=redis&logoColor=FF3158"/>
+<img src="https://img.shields.io/badge/Celery-08111F?style=for-the-badge&logo=celery&logoColor=3B82F6"/>
 
-<br><br>
+### RUN
 
-<sub>© 2026 PRINCE PATEL • IIT MADRAS • DATA SCIENCE</sub>
+<pre>
+Redis
+redis-server
+
+Backend
+pip install -r requirements.txt
+python backend/app.py
+
+Frontend
+npm install
+npm run dev
+
+Celery
+celery -A tasks.celery_app worker --loglevel=info
+</pre>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="12%" valign="top">
+
+### 05
+
+</td>
+<td width="88%" valign="top">
+
+## CURRENTLY LEARNING
+
+<table>
+<tr>
+<td align="center">
+
+### DEEP LEARNING
+
+</td>
+<td align="center">
+
+### GENERATIVE AI
+
+</td>
+<td align="center">
+
+### LLM SYSTEMS
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### MLOps
+
+</td>
+<td align="center">
+
+### AI AGENTS
+
+</td>
+<td align="center">
+
+### INTELLIGENT SYSTEMS
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="12%" valign="top">
+
+### 06
+
+</td>
+<td width="88%" valign="top">
+
+## GITHUB TELEMETRY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PrincePatel2830&show_icons=true&hide_border=true&bg_color=050914&title_color=3B82F6&icon_color=FF3158&text_color=CBD5E1&ring_color=3B82F6" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrincePatel2830&layout=compact&hide_border=true&bg_color=050914&title_color=3B82F6&text_color=CBD5E1" height="170"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=PrincePatel2830&theme=dark&hide_border=true&background=050914&ring=3B82F6&fire=FF3158&currStreakLabel=3B82F6&sideLabels=CBD5E1&dates=64748B" />
 
 </div>
 
-<br>
+</td>
+</tr>
+</table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:00ff88,30:064e3b,65:0a0a0a,100:050505&section=footer"/>
+---
+
+<table>
+<tr>
+<td width="12%" valign="top">
+
+### 07
+
+</td>
+<td width="88%" valign="top">
+
+## CONNECT
+
+<div align="center">
+
+<a href="https://github.com/PrincePatel2830">
+<img src="https://img.shields.io/badge/GITHUB-050914?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://linkedin.com/in/princepatel7">
+<img src="https://img.shields.io/badge/LINKEDIN-050914?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="mailto:patelp8349@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-050914?style=for-the-badge&logo=gmail&logoColor=FF3158"/>
+</a>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:1677FF,45:172554,75:0B1424,100:050914&section=footer"/>
+
+### BUILD. LEARN. DEPLOY.
+
+`DATA SCIENCE × AI × SOFTWARE`
+
+**PRINCE PATEL**
+
+</div>
