@@ -1,513 +1,197 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050914,45:0B1424,75:172554,100:1677FF&section=header&text=PRINCE%20PATEL&fontSize=64&fontColor=F5F7FA&fontAlignY=40&desc=DATA%20SCIENCE%20%E2%80%A2%20AI%20%E2%80%A2%20MACHINE%20LEARNING%20%E2%80%A2%20SOFTWARE&descAlignY=65&descSize=14&animation=fadeIn"/>
+# 👋 Hi there, I'm Prince Patel
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=700&color=3B82F6&center=true&vCenter=true&width=850&height=45&lines=%3E+DATA+SCIENCE+%40+IIT+MADRAS;%3E+MACHINE+LEARNING+%7C+ARTIFICIAL+INTELLIGENCE;%3E+FULL+STACK+%7C+MLOPS+%7C+GENAI;%3E+BUILDING+INTELLIGENT+SYSTEMS"/>
-
-<br>
-
-<a href="https://github.com/PrincePatel2830">
-<img src="https://img.shields.io/badge/GITHUB-08111F?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
+<!-- Dynamic Typing Header -->
 <a href="https://linkedin.com/in/princepatel7">
-<img src="https://img.shields.io/badge/LINKEDIN-08111F?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-<a href="mailto:patelp8349@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-08111F?style=for-the-badge&logo=gmail&logoColor=FF3158"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=AI+%26+Machine+Learning+Engineer;Final+Year+Data+Science+%40+IIT+Madras;Ranked+in+Top+4%25+in+Competitive+ML;Building+GenAI%2C+RAG+%26+LLM+Solutions;Actively+Seeking+AI%2FML+Roles" alt="Typing SVG" />
 </a>
 
-<br><br>
+<p align="center">
+  <a href="mailto:patelp8349@gmail.com"><img src="https://img.shields.io/badge/Status-Actively%20Seeking%20AI%2FML%20Roles-brightgreen?style=for-the-badge" alt="Status" /></a>
+  <a href="https://www.iitm.ac.in/"><img src="https://img.shields.io/badge/Education-IIT%20Madras%20(B.S.%20Data%20Science)-003366?style=for-the-badge&logo=academia&logoColor=white" alt="IIT Madras" /></a>
+  <img src="https://img.shields.io/badge/Location-Bhopal%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=PrincePatel2830&style=flat-square&color=1677FF&label=PROFILE+VIEWS"/>
+<!-- Social Links -->
+<p align="center">
+  <a href="https://linkedin.com/in/princepatel7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:patelp8349@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/PrincePatel2830">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 </div>
 
 ---
 
+### 👨‍💻 About Me
+
+I am a **Final-Year Data Science undergraduate at IIT Madras** specializing in **Machine Learning, Large Language Models (LLMs), and Predictive Modeling**. 
+
+* 🏛️ **Ex-Research Intern @ MoSPI (National Statistical Office)**: Processed & analyzed large-scale economic survey data (ASI) using Python to drive government analytical reporting.
+* 🏆 **Competitive ML Track Record**: Ranked in the **Top 4%** across major ML & GenAI competitions (**Rank 36 / 1,500+** and **Rank 88 / 2,500+**).
+* 🤖 **Current Focus**: Retrieval-Augmented Generation (RAG), LLM fine-tuning, Agentic workflows, and deploying interactive AI web applications using Streamlit.
+* 🎯 **Goal**: Open to **AI/ML Internships & Full-Time Roles** where I can build scalable, high-impact intelligent systems.
+
+---
+
+### ⚡ Key Highlights & Numbers (Recruiter Quick View)
+
+| Metric | Achievement |
+| :--- | :--- |
+| 🎓 **Education** | **B.S. in Data Science**, Indian Institute of Technology Madras (IIT Madras) |
+| 🥇 **Top Rank 36 / 1,500+** | **Smart MCQ Solver Challenge** (Deep Learning & Generative AI) |
+| 🥈 **Top Rank 88 / 2,500+** | **Heavy Equipment Price Prediction** (Regression & Feature Engineering) |
+| 📜 **Certifications** | **Oracle** Agentic AI Foundations Associate & **DataCamp** Data Scientist Associate |
+| 👥 **Leadership** | Community Leader managing **1,000+ active student members** |
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+#### 💻 **Languages & Data Processing**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/EDA-Data%20Wrangling-orange?style=for-the-badge" alt="EDA" />
+</p>
+
+#### 🤖 **Machine Learning & Deep Learning**
+<p align="left">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-Fundamentals-00599C?style=for-the-badge" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Ensemble%20Methods-RandomForest%20%7C%20XGBoost-blue?style=for-the-badge" alt="Ensemble" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-OCR%20%26%20Handwriting-teal?style=for-the-badge" alt="OCR" />
+  <img src="https://img.shields.io/badge/NLP-Sentiment%20Analysis-purple?style=for-the-badge" alt="NLP" />
+</p>
+
+#### 🧠 **Generative AI & LLMs**
+<p align="left">
+  <img src="https://img.shields.io/badge/Large%20Language%20Models-LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-339933?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-Advanced-red?style=for-the-badge" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-Oracle%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Agentic AI" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+</p>
+
+#### 🚀 **Deployment & Developer Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+
 <table>
-<tr>
-<td width="12%" valign="top">
-
-### 01
-
-</td>
-<td width="88%" valign="top">
-
-<sub>PROFILE / IDENTITY</sub>
-
-# PRINCE PATEL
-
-**BS IN DATA SCIENCE — IIT MADRAS**
-
-<table>
-<tr>
-<td width="25%" align="center"><b>DATA SCIENCE</b></td>
-<td width="25%" align="center"><b>MACHINE LEARNING</b></td>
-<td width="25%" align="center"><b>ARTIFICIAL INTELLIGENCE</b></td>
-<td width="25%" align="center"><b>SOFTWARE DEVELOPMENT</b></td>
-</tr>
-</table>
-
-| CURRENTLY EXPLORING | OPEN TO |
-|:---|:---|
-| Deep Learning | Internships |
-| Generative AI | Collaborations |
-
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧠 Smart MCQ Solver Challenge</h3>
+      <p align="center">
+        <b>Rank 36 / 1,500+</b> | <i>Deep Learning, GenAI, Streamlit</i>
+      </p>
+      <ul>
+        <li>Engineered an LLM-powered reasoning system to predict top 3 correct answers for complex, ambiguous MCQs.</li>
+        <li>Implemented prompt orchestration and semantic verification to ensure high confidence score thresholds.</li>
+        <li>Deployed an interactive, zero-latency inference app using <b>Streamlit</b>.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/PrincePatel2830"><b>View Code & Architecture →</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🚜 Heavy Equipment Price Prediction</h3>
+      <p align="center">
+        <b>Rank 88 / 2,500+</b> | <i>Machine Learning, Advanced Regression</i>
+      </p>
+      <ul>
+        <li>Analyzed multi-dimensional historical auction data with rigorous statistical exploratory data analysis (EDA).</li>
+        <li>Built an end-to-end feature engineering pipeline handling high missingness and skewed distributions.</li>
+        <li>Tuned ensemble regression models to minimize RMSE for accurate enterprise pricing.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/PrincePatel2830"><b>View Code & Notebook →</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center">🎬 Movie Review Sentiment Analysis System</h3>
+      <p align="center">
+        <i>Natural Language Processing (NLP), Scikit-Learn, Text Classification</i>
+      </p>
+      <ul>
+        <li>Built an NLP preprocessing pipeline (tokenization, stopword removal, TF-IDF vectorization) for unstructured text data.</li>
+        <li>Trained supervised classification models with cross-validation to accurately categorize customer sentiment.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/PrincePatel2830"><b>View Repository →</b></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-<table>
-<tr>
-<td width="12%" valign="top">
+### 💼 Professional Experience
 
-### 02
-
-</td>
-<td width="88%" valign="top">
-
-<sub>ENGINEERING / TOOLKIT</sub>
-
-# TECH STACK
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### PROGRAMMING
-
-<img src="https://skillicons.dev/icons?i=python,js&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SQL-08111F?style=for-the-badge&logo=postgresql&logoColor=3B82F6"/>
-
-</td>
-<td width="50%" valign="top">
-
-### AI / DATA
-
-<img src="https://img.shields.io/badge/Pandas-08111F?style=for-the-badge&logo=pandas&logoColor=3B82F6"/>
-<img src="https://img.shields.io/badge/NumPy-08111F?style=for-the-badge&logo=numpy&logoColor=3B82F6"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-08111F?style=for-the-badge&logo=scikit-learn&logoColor=FF3158"/>
-<img src="https://img.shields.io/badge/Matplotlib-08111F?style=for-the-badge&logo=matplotlib&logoColor=3B82F6"/>
-<img src="https://img.shields.io/badge/Plotly-08111F?style=for-the-badge&logo=plotly&logoColor=3B82F6"/>
-<img src="https://img.shields.io/badge/PyTorch-08111F?style=for-the-badge&logo=pytorch&logoColor=FF3158"/>
-<img src="https://img.shields.io/badge/MLflow-08111F?style=for-the-badge&logo=mlflow&logoColor=3B82F6"/>
-<img src="https://img.shields.io/badge/LightGBM-08111F?style=for-the-badge&logoColor=3B82F6"/>
-<img src="https://img.shields.io/badge/XGBoost-08111F?style=for-the-badge&logoColor=FF3158"/>
-<img src="https://img.shields.io/badge/CatBoost-08111F?style=for-the-badge&logoColor=3B82F6"/>
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-### WEB / BACKEND
-
-<img src="https://skillicons.dev/icons?i=flask,vue,vite,html,css,bootstrap&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Jinja-08111F?style=for-the-badge&logoColor=3B82F6"/>
-<img src="https://img.shields.io/badge/JWT-08111F?style=for-the-badge&logo=jsonwebtokens&logoColor=FF3158"/>
-
-</td>
-<td valign="top">
-
-### DATABASE
-
-<img src="https://skillicons.dev/icons?i=sqlite,postgres,redis&theme=dark"/>
-
-<br><br>
-
-### DEVOPS / DEPLOYMENT
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Render-08111F?style=for-the-badge&logo=render&logoColor=3B82F6"/>
-<img src="https://img.shields.io/badge/Vercel-08111F?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Cloudflare-08111F?style=for-the-badge&logo=cloudflare&logoColor=FF3158"/>
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
+#### **Research Intern** | *National Statistical Office (NSO), MoSPI, Govt. of India*
+*(Dec 2025 – Feb 2026)*
+* Executed data cleaning, validation, and transformations on extensive **Annual Survey of Industries (ASI)** datasets using Python and Pandas.
+* Extracted macro-economic industrial trends, deriving actionable insights directly supporting national statistical reporting.
+* Deepened domain knowledge in large-scale statistical survey methodologies, data integrity pipelines, and governance standards.
 
 ---
 
-<table>
-<tr>
-<td width="12%" valign="top">
+### 📜 Verified Certifications
 
-### 03
-
-</td>
-<td width="88%" valign="top">
-
-<sub>SELECTED BUILDS / PROJECT DATABASE</sub>
-
-# PROJECTS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 01 / HEAVY EQUIPMENT
-
-## SELLING PRICE PREDICTION
-
-Machine learning regression project for predicting heavy equipment selling prices.
-
-**STACK**
-
-`LightGBM` `XGBoost` `CatBoost`
-
-`Feature Engineering`  
-`Hyperparameter Tuning`
-
-**FOCUS**
-
-Regression  
-Machine Learning  
-Model Optimization
-
-</td>
-
-<td width="50%" valign="top">
-
-### 02 / HOSPITAL
-
-## MANAGEMENT SYSTEM
-
-Flask-based hospital management web application.
-
-**FEATURES**
-
-Patient Management  
-Doctor Management  
-Appointment Scheduling
-
-**STACK**
-
-`Flask` `SQLite` `SQLAlchemy`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 03 / SMART
-
-## MCQ SOLVER
-
-AI/ML system for predicting and ranking answers to multiple-choice questions.
-
-**FOCUS**
-
-Artificial Intelligence  
-Machine Learning  
-Answer Prediction  
-Ranking
-
-</td>
-
-<td width="50%" valign="top">
-
-### 04 / PPA V2
-
-## PLACEMENT PORTAL
-
-Institute campus recruitment management platform.
-
-**STACK**
-
-`Flask` `SQLite` `SQLAlchemy`  
-`Redis` `Celery`
-
-**ROLES**
-
-Admin • Company • Student
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
+* 🏛️ **Oracle Certified**: *Agentic AI Foundations Associate*
+* 📊 **DataCamp**: *AI Engineer for Data Scientists Associate*
+* 🔬 **DataCamp**: *Data Scientist Associate*
+* ⚙️ **DataCamp**: *Data Engineer Associate*
+* 💡 **DataCamp**: *AI Fundamentals*
 
 ---
 
-<table>
-<tr>
-<td width="12%" valign="top">
-
-### 04
-
-</td>
-<td width="88%" valign="top">
-
-<sub>FEATURED BUILD / PPA V2</sub>
-
-# PLACEMENT PORTAL APPLICATION
-
-## PPA V2
-
-Institute campus recruitment management platform connecting **Admin, Companies and Students**.
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 01 / ADMIN
-
-- Approve/reject company registrations
-- Approve/reject placement drives
-- View statistics
-
-</td>
-
-<td width="33%" valign="top">
-
-### 02 / COMPANY
-
-- Register company profile
-- Create placement drives
-- View student applications
-- Shortlist students
-- Schedule interviews
-
-</td>
-
-<td width="33%" valign="top">
-
-### 03 / STUDENT
-
-- Register
-- Login
-- Update profile
-- Apply for drives
-- Track applications
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### SYSTEM ARCHITECTURE
-
-<table>
-<tr>
-<td width="65%" align="center">
-
-**FRONTEND**
-
-↓  
-
-**FLASK BACKEND**
-
-↓
-
-**SQLALCHEMY**
-
-↓
-
-**SQLITE**
-
-</td>
-
-<td width="35%" align="center">
-
-**REDIS**
-
-Caching
-
-<br>
-
-**CELERY**
-
-Background Tasks
-
-</td>
-</tr>
-</table>
-
-### STACK
-
-<img src="https://img.shields.io/badge/Flask-08111F?style=for-the-badge&logo=flask&logoColor=3B82F6"/>
-<img src="https://img.shields.io/badge/SQLite-08111F?style=for-the-badge&logo=sqlite&logoColor=3B82F6"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-08111F?style=for-the-badge&logo=sqlalchemy&logoColor=FF3158"/>
-<img src="https://img.shields.io/badge/Redis-08111F?style=for-the-badge&logo=redis&logoColor=FF3158"/>
-<img src="https://img.shields.io/badge/Celery-08111F?style=for-the-badge&logo=celery&logoColor=3B82F6"/>
-
-### RUN
-
-<pre>
-Redis
-redis-server
-
-Backend
-pip install -r requirements.txt
-python backend/app.py
-
-Frontend
-npm install
-npm run dev
-
-Celery
-celery -A tasks.celery_app worker --loglevel=info
-</pre>
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="12%" valign="top">
-
-### 05
-
-</td>
-<td width="88%" valign="top">
-
-<sub>LEARNING / IN PROGRESS</sub>
-
-# CURRENTLY LEARNING
-
-<table>
-<tr>
-<td width="20%" align="center">
-
-### 01
-
-**DEEP LEARNING**
-
-</td>
-<td width="20%" align="center">
-
-### 02
-
-**GENERATIVE AI**
-
-</td>
-<td width="20%" align="center">
-
-### 03
-
-**LLM SYSTEMS**
-
-</td>
-<td width="20%" align="center">
-
-### 04
-
-**MLOps**
-
-</td>
-<td width="20%" align="center">
-
-### 05
-
-**AI AGENTS**
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="12%" valign="top">
-
-### 06
-
-</td>
-<td width="88%" valign="top">
-
-<sub>GITHUB / TELEMETRY</sub>
-
-# GITHUB STATS
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PrincePatel2830&show_icons=true&hide_border=true&bg_color=050914&title_color=3B82F6&icon_color=FF3158&text_color=CBD5E1"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrincePatel2830&layout=compact&hide_border=true&bg_color=050914&title_color=3B82F6&text_color=CBD5E1"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=PrincePatel2830&theme=dark&hide_border=true&background=050914&ring=3B82F6&fire=FF3158&currStreakLabel=3B82F6&sideLabels=CBD5E1&dates=64748B"/>
-
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PrincePatel2830&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Prince's GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrincePatel2830&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
 
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrincePatel2830&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
 
 ---
 
-<table>
-<tr>
-<td width="12%" valign="top">
+### 📬 Let's Connect!
 
-### 07
+I am always keen to discuss **AI/ML opportunities, collaborative research, or open-source projects**.
 
-</td>
-<td width="88%" valign="top">
+<p align="center">
+  <a href="https://linkedin.com/in/princepatel7">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Prince-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:patelp8349@gmail.com">
+    <img src="https://img.shields.io/badge/Email-patelp8349%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<sub>CONTACT / CONNECTION</sub>
-
-# CONNECT
-
-<div align="center">
-
-<a href="https://github.com/PrincePatel2830">
-<img src="https://img.shields.io/badge/GITHUB-08111F?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://linkedin.com/in/princepatel7">
-<img src="https://img.shields.io/badge/LINKEDIN-08111F?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-<a href="mailto:patelp8349@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-08111F?style=for-the-badge&logo=gmail&logoColor=FF3158"/>
-</a>
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:1677FF,45:172554,75:0B1424,100:050914&section=footer"/>
-
-## BUILD. LEARN. DEPLOY.
-
-`DATA SCIENCE × AI × SOFTWARE`
-
-**PRINCE PATEL**
-
-</div>
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/PrincePatel2830">Prince Patel</a> | Powered by Curiosity & Data</i>
+</p>
