@@ -1,33 +1,21 @@
 <div align="center">
 
-# 👋 Hi there, I'm Prince Patel
+# 👋 Hi, I'm Prince Patel
 
-<!-- Dynamic Typing Header -->
+<!-- Compact Typing Header -->
 <a href="https://linkedin.com/in/princepatel7" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=AI+%26+Machine+Learning+Engineer;Final+Year+Data+Science+%40+IIT+Madras;Ranked+in+Top+4%25+in+Competitive+ML;Building+GenAI%2C+RAG+%26+LLM+Solutions;Actively+Seeking+AI%2FML+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=480&lines=AI+%26+Machine+Learning+Engineer;Final+Year+Data+Science+%40+IIT+Madras;Top+4%25+in+Competitive+ML;Building+GenAI+%26+RAG+Solutions;Open+to+AI%2FML+Roles" alt="Typing SVG" />
 </a>
 
-<p align="center">
-  <a href="mailto:patelp8349@gmail.com"><img src="https://img.shields.io/badge/Status-Actively%20Seeking%20AI%2FML%20Roles-brightgreen?style=for-the-badge" alt="Status" /></a>
-  <a href="https://www.iitm.ac.in/" target="_blank"><img src="https://img.shields.io/badge/Education-IIT%20Madras%20(B.S.%20Data%20Science)-003366?style=for-the-badge&logo=academia&logoColor=white" alt="IIT Madras" /></a>
-  <img src="https://img.shields.io/badge/Location-Bhopal%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-</p>
+<br/>
 
-<!-- Social & Verification Links -->
-<p align="center">
-  <a href="https://linkedin.com/in/princepatel7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:patelp8349@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge_m?id=1C1FAD432C8EE43395D0CCD5695DA657BD9B05890255570A1C41A5D8B4C4EAFB" target="_blank">
-    <img src="https://img.shields.io/badge/Oracle%20Certified-Agentic%20AI%20Badge-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Badge" />
-  </a>
-  <a href="https://github.com/PrincePatel2830">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<!-- Small, Compact Status Badges (Strict 20px height) -->
+<a href="mailto:patelp8349@gmail.com"><img height="20" src="https://img.shields.io/badge/Status-Open_to_Work-2ea44f?style=flat" alt="Status" /></a>&nbsp;<a href="https://www.iitm.ac.in/" target="_blank"><img height="20" src="https://img.shields.io/badge/IIT_Madras-B.S._Data_Science-003366?style=flat" alt="IIT Madras" /></a>&nbsp;<img height="20" src="https://img.shields.io/badge/Location-Bhopal,_India-0284c7?style=flat" alt="Location" />
+
+<br/>
+
+<!-- Small, Compact Social Links (Strict 22px height) -->
+<a href="https://linkedin.com/in/princepatel7" target="_blank"><img height="22" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:patelp8349@gmail.com"><img height="22" src="https://img.shields.io/badge/Email-patelp8349@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;<a href="https://catalog-education.oracle.com/ords/certview/sharebadge_m?id=1C1FAD432C8EE43395D0CCD5695DA657BD9B05890255570A1C41A5D8B4C4EAFB" target="_blank"><img height="22" src="https://img.shields.io/badge/Oracle-Agentic_AI-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle" /></a>&nbsp;<a href="https://github.com/PrincePatel2830"><img height="22" src="https://img.shields.io/badge/GitHub-PrincePatel2830-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
@@ -59,42 +47,32 @@ I am a **Final-Year Data Science undergraduate at IIT Madras** specializing in *
 ### 🛠️ Tech Stack & Skills
 
 #### 💻 **Languages & Data Processing**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/EDA-Data%20Wrangling-orange?style=for-the-badge" alt="EDA" />
-</p>
+<img height="22" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />&nbsp;
+<img height="22" src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />&nbsp;
+<img height="22" src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />&nbsp;
+<img height="22" src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />&nbsp;
+<img height="22" src="https://img.shields.io/badge/EDA-Data_Wrangling-orange?style=flat" alt="EDA" />
 
 #### 🤖 **Machine Learning & Deep Learning**
-<p align="left">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-Fundamentals-00599C?style=for-the-badge" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Ensemble%20Methods-RandomForest%20%7C%20XGBoost-blue?style=for-the-badge" alt="Ensemble" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-OCR%20%26%20Handwriting-teal?style=for-the-badge" alt="OCR" />
-  <img src="https://img.shields.io/badge/NLP-Sentiment%20Analysis-purple?style=for-the-badge" alt="NLP" />
-</p>
+<img height="22" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />&nbsp;
+<img height="22" src="https://img.shields.io/badge/Deep_Learning-Fundamentals-00599C?style=flat" alt="Deep Learning" />&nbsp;
+<img height="22" src="https://img.shields.io/badge/Ensemble-RandomForest_&_XGBoost-blue?style=flat" alt="Ensemble" />&nbsp;
+<img height="22" src="https://img.shields.io/badge/CV-OCR-teal?style=flat" alt="OCR" />&nbsp;
+<img height="22" src="https://img.shields.io/badge/NLP-Sentiment_Analysis-purple?style=flat" alt="NLP" />
 
 #### 🧠 **Generative AI & LLMs**
-<p align="left">
-  <img src="https://img.shields.io/badge/Large%20Language%20Models-LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-339933?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-Advanced-red?style=for-the-badge" alt="Prompt Engineering" />
-  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge_m?id=1C1FAD432C8EE43395D0CCD5695DA657BD9B05890255570A1C41A5D8B4C4EAFB" target="_blank">
-    <img src="https://img.shields.io/badge/Agentic%20AI-Oracle%20Certified%20%E2%86%97-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Agentic AI" />
-  </a>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-</p>
+<img height="22" src="https://img.shields.io/badge/LLMs-Large_Language_Models-412991?style=flat&logo=openai&logoColor=white" alt="LLMs" />&nbsp;
+<img height="22" src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Gen-339933?style=flat" alt="RAG" />&nbsp;
+<img height="22" src="https://img.shields.io/badge/Prompt_Engineering-Advanced-red?style=flat" alt="Prompt Engineering" />&nbsp;
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge_m?id=1C1FAD432C8EE43395D0CCD5695DA657BD9B05890255570A1C41A5D8B4C4EAFB" target="_blank"><img height="22" src="https://img.shields.io/badge/Oracle-Agentic_AI-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle Agentic AI" /></a>&nbsp;
+<img height="22" src="https://img.shields.io/badge/Hugging_Face-Models-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face" />
 
 #### 🚀 **Deployment & Developer Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>
+<img height="22" src="https://img.shields.io/badge/Streamlit-App_Deployment-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" />&nbsp;
+<img height="22" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />&nbsp;
+<img height="22" src="https://img.shields.io/badge/GitHub-Version_Control-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />&nbsp;
+<img height="22" src="https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />&nbsp;
+<img height="22" src="https://img.shields.io/badge/VS_Code-Editor-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 
 ---
 
@@ -109,18 +87,13 @@ I am a **Final-Year Data Science undergraduate at IIT Madras** specializing in *
         <i>Deep Learning • Generative AI • Streamlit</i>
       </p>
       <ul>
-        <li>Engineered an LLM-powered reasoning system to predict top 3 correct answers for complex, ambiguous MCQs.</li>
-        <li>Implemented prompt orchestration and semantic verification to ensure high confidence score thresholds.</li>
-        <li>Deployed as an interactive, real-time web application built with Streamlit.</li>
+        <li>Engineered an LLM reasoning pipeline to predict top 3 correct answers for complex MCQs.</li>
+        <li>Implemented prompt orchestration and semantic verification for high confidence thresholds.</li>
+        <li>Deployed as an interactive, live web app with Streamlit.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/PrincePatel2830/Smart-MCQ-Solver" target="_blank">
-          <img src="https://img.shields.io/badge/App%20Repo-Streamlit%20UI-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit App Repo" />
-        </a>
-        <br/>
-        <a href="https://github.com/PrincePatel2830/dl-genai-project-26-t2" target="_blank">
-          <img src="https://img.shields.io/badge/Model%20Pipeline-DL%20%26%20GenAI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="GenAI Pipeline" />
-        </a>
+        <a href="https://github.com/PrincePatel2830/Smart-MCQ-Solver" target="_blank"><img height="20" src="https://img.shields.io/badge/Streamlit_App-Live_Repo-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit App Repo" /></a>&nbsp;
+        <a href="https://github.com/PrincePatel2830/dl-genai-project-26-t2" target="_blank"><img height="20" src="https://img.shields.io/badge/Pipeline-DL_&_GenAI-3776AB?style=flat&logo=python&logoColor=white" alt="GenAI Pipeline" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -130,15 +103,13 @@ I am a **Final-Year Data Science undergraduate at IIT Madras** specializing in *
         <i>Machine Learning • Feature Engineering • Advanced Regression</i>
       </p>
       <ul>
-        <li>Analyzed multi-dimensional historical auction data with rigorous statistical exploratory data analysis (EDA).</li>
-        <li>Built an end-to-end feature engineering pipeline handling high missingness and skewed distributions.</li>
-        <li>Tuned ensemble regression models to minimize RMSE for accurate enterprise price forecasting.</li>
+        <li>Analyzed multi-dimensional historical auction data with rigorous statistical EDA.</li>
+        <li>Built an end-to-end feature engineering pipeline handling high missingness.</li>
+        <li>Tuned ensemble regression models to minimize RMSE for accurate price forecasting.</li>
       </ul>
       <br/>
       <p align="center">
-        <a href="https://github.com/PrincePatel2830/Heavy-Equipment-Selling-Price-Prediction-Challenge" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Code-ML%20Competition%20Repo-F7931E?style=for-the-badge&logo=github&logoColor=white" alt="ML Competition Repo" />
-        </a>
+        <a href="https://github.com/PrincePatel2830/Heavy-Equipment-Selling-Price-Prediction-Challenge" target="_blank"><img height="20" src="https://img.shields.io/badge/Repository-View_Code-F7931E?style=flat&logo=github&logoColor=white" alt="ML Competition Repo" /></a>
       </p>
     </td>
   </tr>
@@ -149,13 +120,11 @@ I am a **Final-Year Data Science undergraduate at IIT Madras** specializing in *
         <i>Natural Language Processing (NLP) • Scikit-Learn • Text Classification</i>
       </p>
       <ul>
-        <li>Built an NLP preprocessing pipeline (tokenization, stopword removal, TF-IDF vectorization) for unstructured text data.</li>
-        <li>Trained supervised classification models with cross-validation to accurately categorize customer sentiment on unseen test data.</li>
+        <li>Built an NLP preprocessing pipeline (tokenization, stopword removal, TF-IDF vectorization) for text data.</li>
+        <li>Trained supervised classification models with cross-validation to predict sentiment on test benchmarks.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/PrincePatel2830" target="_blank">
-          <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos" />
-        </a>
+        <a href="https://github.com/PrincePatel2830" target="_blank"><img height="20" src="https://img.shields.io/badge/GitHub-View_All_Projects-181717?style=flat&logo=github&logoColor=white" alt="GitHub Repos" /></a>
       </p>
     </td>
   </tr>
@@ -187,8 +156,8 @@ I am a **Final-Year Data Science undergraduate at IIT Madras** specializing in *
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PrincePatel2830&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Prince's GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrincePatel2830&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=PrincePatel2830&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Prince's GitHub Stats" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrincePatel2830&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -202,17 +171,9 @@ I am a **Final-Year Data Science undergraduate at IIT Madras** specializing in *
 I am always keen to discuss **AI/ML opportunities, collaborative research, or open-source projects**.
 
 <p align="center">
-  <a href="https://linkedin.com/in/princepatel7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Prince-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:patelp8349@gmail.com">
-    <img src="https://img.shields.io/badge/Email-patelp8349%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge_m?id=1C1FAD432C8EE43395D0CCD5695DA657BD9B05890255570A1C41A5D8B4C4EAFB" target="_blank">
-    <img src="https://img.shields.io/badge/Oracle%20Badge-Verified-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Badge" />
-  </a>
+  <a href="https://linkedin.com/in/princepatel7" target="_blank"><img height="22" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:patelp8349@gmail.com"><img height="22" src="https://img.shields.io/badge/Email-patelp8349@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge_m?id=1C1FAD432C8EE43395D0CCD5695DA657BD9B05890255570A1C41A5D8B4C4EAFB" target="_blank"><img height="22" src="https://img.shields.io/badge/Oracle-Agentic_AI-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle Badge" /></a>
 </p>
 
 <p align="center">
